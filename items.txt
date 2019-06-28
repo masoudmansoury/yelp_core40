@@ -1,0 +1,6156 @@
+34	American (Traditional)
+34	Beer
+34	Breakfast & Brunch
+34	Food
+34	Italian
+34	Restaurants
+34	Wine & Spirits
+250	American (New)
+250	Breweries
+250	Brewpubs
+250	Food
+250	Restaurants
+759	Japanese
+759	Restaurants
+759	Sushi Bars
+1085	Mexican
+1085	Restaurants
+1122	Airport Terminals
+1122	Airports
+1122	Hotels & Travel
+1431	Bars
+1431	Beer
+1431	British
+1431	Food
+1431	Gastropubs
+1431	Nightlife
+1431	Restaurants
+1431	Wine & Spirits
+1664	Gluten-Free
+1664	Mexican
+1664	Restaurants
+1664	Seafood
+1902	Airlines
+1902	Hotels & Travel
+1902	Transportation
+1943	Pizza
+1943	Restaurants
+2001	Car Rental
+2001	Hotels & Travel
+2013	Restaurants
+2013	Thai
+2556	Japanese
+2556	Restaurants
+2556	Sushi Bars
+2605	Bars
+2605	Italian
+2605	Nightlife
+2605	Restaurants
+3227	Arts & Entertainment
+3227	Opera & Ballet
+3227	Performing Arts
+3538	American (New)
+3538	American (Traditional)
+3538	Bars
+3538	Nightlife
+3538	Restaurants
+3538	Seafood
+3538	Sports Bars
+4015	Active Life
+4015	Barre Classes
+4015	Cardio Classes
+4015	Fitness & Instruction
+4015	Gyms
+4015	Pilates
+4101	American (New)
+4101	Cafes
+4101	Restaurants
+4101	Salad
+4101	Sandwiches
+4101	Soup
+4128	Italian
+4128	Restaurants
+4195	Jewelry
+4195	Shopping
+4195	Shopping Centers
+4261	Coffee & Tea
+4261	Donuts
+4261	Food
+4417	Bars
+4417	Nightlife
+4417	Tiki Bars
+4740	Cheesesteaks
+4740	Chicken Wings
+4740	Pizza
+4740	Restaurants
+4740	Sandwiches
+4834	Departments of Motor Vehicles
+4834	Public Services & Government
+4878	Mexican
+4878	Restaurants
+4878	Vegetarian
+4901	American (Traditional)
+4901	Barbeque
+4901	Bars
+4901	Food
+4901	Nightlife
+4901	Restaurants
+4901	Smokehouse
+4901	Southern
+5001	Asian Fusion
+5001	Cantonese
+5001	Chinese
+5001	Dim Sum
+5001	Restaurants
+5205	Italian
+5205	Pizza
+5205	Restaurants
+5205	Sandwiches
+5413	American (New)
+5413	Hawaiian
+5413	Restaurants
+5413	Seafood
+5595	Bakeries
+5595	Delis
+5595	Food
+5595	Italian
+5595	Restaurants
+5796	American (Traditional)
+5796	Asian Fusion
+5796	Barbeque
+5796	Food
+5796	Hawaiian
+5796	Restaurants
+6040	Arts & Entertainment
+6040	Cinema
+6066	Arts & Entertainment
+6066	Bars
+6066	Casinos
+6066	Event Planning & Services
+6066	Hotels
+6066	Hotels & Travel
+6066	Lounges
+6066	Nightlife
+6416	Japanese
+6416	Restaurants
+6416	Steakhouses
+6416	Sushi Bars
+6638	Falafel
+6638	Kosher
+6638	Mediterranean
+6638	Middle Eastern
+6638	Restaurants
+6656	Bakeries
+6656	Breakfast & Brunch
+6656	Food
+6656	French
+6656	Macarons
+6656	Restaurants
+6656	Salad
+6656	Sandwiches
+6656	Specialty Food
+6714	Bars
+6714	Live/Raw Food
+6714	Nightlife
+6714	Restaurants
+6714	Sandwiches
+6714	Vegan
+6714	Vegetarian
+6714	Waffles
+6714	Wine Bars
+6741	Beer
+6741	Food
+6741	Restaurants
+6741	Thai
+6741	Vegan
+6741	Wine & Spirits
+7097	Bakeries
+7097	Breakfast & Brunch
+7097	Cafes
+7097	Coffee & Tea
+7097	Food
+7097	French
+7097	Restaurants
+7196	Barbeque
+7196	Japanese
+7196	Korean
+7196	Restaurants
+7196	Seafood
+7196	Steakhouses
+7304	Restaurants
+7304	Seafood
+7317	Beauty & Spas
+7317	Health & Medical
+7317	Massage
+7317	Massage Therapy
+7317	Reflexology
+7523	Arts & Entertainment
+7523	Cinema
+7662	Bars
+7662	Modern European
+7662	Nightlife
+7662	Restaurants
+7662	Spanish
+7662	Tapas Bars
+7662	Ukrainian
+7733	Arts & Entertainment
+7733	Casinos
+7733	Event Planning & Services
+7733	Hotels
+7733	Hotels & Travel
+7813	Beer
+7813	Ethnic Food
+7813	Food
+7813	Grocery
+7813	Imported Food
+7813	International Grocery
+7813	Specialty Food
+7813	Wine & Spirits
+7940	Restaurants
+7940	Steakhouses
+8216	American (New)
+8216	Bars
+8216	Cocktail Bars
+8216	Nightlife
+8216	Restaurants
+8216	Steakhouses
+8534	Department Stores
+8534	Fashion
+8534	Shopping
+8683	Caterers
+8683	Event Planning & Services
+8683	Hawaiian
+8683	Restaurants
+8876	Bagels
+8876	Breakfast & Brunch
+8876	Food
+8876	Restaurants
+8876	Salad
+8876	Sandwiches
+8876	Soup
+8960	American (Traditional)
+8960	Breakfast & Brunch
+8960	French
+8960	Restaurants
+8979	American (Traditional)
+8979	Barbeque
+8979	Bars
+8979	Chicken Wings
+8979	Nightlife
+8979	Restaurants
+8979	Sports Bars
+9046	Comfort Food
+9046	Fish & Chips
+9046	Restaurants
+9046	Seafood
+9049	American (New)
+9049	Mediterranean
+9049	Restaurants
+9598	Bubble Tea
+9598	Coffee & Tea
+9598	Food
+9598	Juice Bars & Smoothies
+9705	Breakfast & Brunch
+9705	Cafes
+9705	Coffee & Tea
+9705	Delis
+9705	Food
+9705	French
+9705	Restaurants
+9705	Sandwiches
+9705	Vegan
+10063	Breakfast & Brunch
+10063	Cafes
+10063	Coffee & Tea
+10063	Food
+10063	Italian
+10063	Restaurants
+10309	Farmers Market
+10309	Food
+10309	Fruits & Veggies
+10309	Grocery
+10309	Health Markets
+10309	Specialty Food
+10346	Bubble Tea
+10346	Coffee & Tea
+10346	Food
+10346	Juice Bars & Smoothies
+10346	Tea Rooms
+10453	American (Traditional)
+10453	Breakfast & Brunch
+10453	Diners
+10453	Restaurants
+10481	American (New)
+10481	American (Traditional)
+10481	Asian Fusion
+10481	Japanese
+10481	Restaurants
+10481	Seafood
+10481	Sushi Bars
+11086	Japanese
+11086	Restaurants
+11086	Tapas/Small Plates
+11187	American (New)
+11187	Asian Fusion
+11187	Bars
+11187	Burgers
+11187	Nightlife
+11187	Restaurants
+11187	Wine Bars
+11229	Mexican
+11229	Restaurants
+11236	Restaurants
+11236	Thai
+11800	Candy Stores
+11800	Food
+11800	Specialty Food
+11817	Mexican
+11817	Restaurants
+11817	Tex-Mex
+11905	Arts & Entertainment
+11905	Stadiums & Arenas
+12241	Asian Fusion
+12241	Hawaiian
+12241	Restaurants
+12241	Seafood
+12241	Steakhouses
+12241	Sushi Bars
+12291	Arts & Entertainment
+12291	Buddhist Temples
+12291	Ethnic Food
+12291	Festivals
+12291	Food
+12291	Imported Food
+12291	Local Flavor
+12291	Religious Organizations
+12291	Specialty Food
+12462	American (New)
+12462	American (Traditional)
+12462	Bars
+12462	Dive Bars
+12462	Irish
+12462	Irish Pub
+12462	Mediterranean
+12462	Nightlife
+12462	Restaurants
+12523	Caterers
+12523	Event Planning & Services
+12523	Fast Food
+12523	Restaurants
+12580	Food
+12580	Hawaiian
+12580	Poke
+12580	Restaurants
+12580	Sandwiches
+12580	Seafood
+12761	Asian Fusion
+12761	Bars
+12761	Dive Bars
+12761	Nightlife
+12761	Restaurants
+12761	Seafood
+12761	Sports Bars
+12761	Vietnamese
+13553	Arts & Entertainment
+13553	Casinos
+13553	Event Planning & Services
+13553	Hotels
+13553	Hotels & Travel
+13586	Bars
+13586	Nightlife
+13586	Restaurants
+13586	Seafood
+13586	Sports Bars
+13869	Desserts
+13869	Food
+13869	Gelato
+13869	Ice Cream & Frozen Yogurt
+13869	Patisserie/Cake Shop
+14086	Bars
+14086	Cocktail Bars
+14086	Fast Food
+14086	Mexican
+14086	Nightlife
+14086	Restaurants
+14092	Bars
+14092	Cocktail Bars
+14092	Gluten-Free
+14092	Italian
+14092	Nightlife
+14092	Pizza
+14092	Restaurants
+14092	Tuscan
+14110	Bars
+14110	Karaoke
+14110	Nightlife
+14110	Restaurants
+14110	Vietnamese
+14111	Chinese
+14111	Restaurants
+14360	Active Life
+14360	Fitness & Instruction
+14360	Gyms
+14360	Trainers
+14414	Bubble Tea
+14414	Coffee & Tea
+14414	Food
+14414	Juice Bars & Smoothies
+14414	Restaurants
+14414	Taiwanese
+14554	American (New)
+14554	Caterers
+14554	Event Planning & Services
+14554	Fast Food
+14554	Restaurants
+14892	Bubble Tea
+14892	Coffee & Tea
+14892	Food
+14892	Juice Bars & Smoothies
+14903	Food
+14903	Italian
+14903	Pasta Shops
+14903	Pizza
+14903	Restaurants
+14903	Specialty Food
+14998	American (Traditional)
+14998	Breakfast & Brunch
+14998	Burgers
+14998	Comfort Food
+14998	Diners
+14998	Restaurants
+15567	American (Traditional)
+15567	Bubble Tea
+15567	Coffee & Tea
+15567	Food
+15567	Juice Bars & Smoothies
+15567	Restaurants
+15567	Taiwanese
+15567	Tea Rooms
+15693	Department Stores
+15693	Fashion
+15693	Outlet Stores
+15693	Shoe Stores
+15693	Shopping
+15693	Women's Clothing
+15760	Pizza
+15760	Restaurants
+15859	American (New)
+15859	Bars
+15859	Cocktail Bars
+15859	Nightlife
+15859	Restaurants
+15859	Steakhouses
+15863	American (Traditional)
+15863	Burgers
+15863	Restaurants
+15863	Salad
+15863	Sandwiches
+15903	Burgers
+15903	Fast Food
+15903	Food
+15903	Ice Cream & Frozen Yogurt
+15903	Restaurants
+16323	Chinese
+16323	Dim Sum
+16323	Restaurants
+16367	Mexican
+16367	Restaurants
+16627	Japanese
+16627	Restaurants
+16627	Salad
+16627	Sushi Bars
+16719	American (Traditional)
+16719	Bars
+16719	Cocktail Bars
+16719	Nightlife
+16719	Restaurants
+16719	Seafood
+16719	Steakhouses
+17481	American (New)
+17481	Restaurants
+17810	Beauty & Spas
+17810	Cosmetics & Beauty Supply
+17810	Shopping
+18127	Bubble Tea
+18127	Coffee & Tea
+18127	Food
+18127	Restaurants
+18127	Taiwanese
+18128	Active Life
+18128	Amusement Parks
+18128	Arts & Entertainment
+18128	Supernatural Readings
+18327	Automotive
+18327	Department Stores
+18327	Fashion
+18327	Gas Stations
+18327	Shopping
+18739	Restaurants
+18739	Salad
+18739	Soup
+18739	Thai
+18800	Barbeque
+18800	Bars
+18800	Event Planning & Services
+18800	Nightlife
+18800	Restaurants
+18800	Sports Bars
+18800	Venues & Event Spaces
+18951	Nightlife
+18951	Shopping
+18951	Shopping Centers
+19009	American (Traditional)
+19009	Latin American
+19009	Peruvian
+19009	Restaurants
+19009	Spanish
+19038	Italian
+19038	Pizza
+19038	Restaurants
+19038	Sandwiches
+19107	Bakeries
+19107	Cupcakes
+19107	Desserts
+19107	Food
+19107	Restaurants
+19390	Beauty & Spas
+19390	Day Spas
+19390	Event Planning & Services
+19390	Hotels
+19390	Hotels & Travel
+19390	Resorts
+19572	Korean
+19572	Local Services
+19572	Restaurants
+19637	Arts & Entertainment
+19637	Beauty & Spas
+19637	Casinos
+19637	Day Spas
+19637	Event Planning & Services
+19637	Hotels
+19637	Hotels & Travel
+19712	Noodles
+19712	Restaurants
+19712	Thai
+19712	Vegetarian
+19893	Cafes
+19893	Chinese
+19893	Dim Sum
+19893	Restaurants
+19911	Bakeries
+19911	Food
+19911	French
+19911	Restaurants
+20050	Bakeries
+20050	Coffee & Tea
+20050	Donuts
+20050	Food
+20179	Burgers
+20179	Food
+20179	Food Stands
+20179	Food Trucks
+20179	Restaurants
+20373	Arts & Entertainment
+20373	Cinema
+20429	American (New)
+20429	American (Traditional)
+20429	Bars
+20429	Breweries
+20429	Food
+20429	Gastropubs
+20429	Nightlife
+20429	Restaurants
+20429	Seafood
+20429	Sports Bars
+20624	Automotive
+20624	Departments of Motor Vehicles
+20624	Public Services & Government
+20885	Bakeries
+20885	Desserts
+20885	Food
+20885	French
+20885	Restaurants
+20885	Sandwiches
+20890	American (New)
+20890	Bars
+20890	Lounges
+20890	Nightlife
+20890	Restaurants
+21041	Bars
+21041	British
+21041	Nightlife
+21041	Pubs
+21041	Restaurants
+21041	Sports Bars
+21250	Bars
+21250	Beer
+21250	Food
+21250	Japanese
+21250	Nightlife
+21250	Ramen
+21250	Restaurants
+21250	Sushi Bars
+21250	Tapas Bars
+21250	Wine & Spirits
+21256	Burgers
+21256	Restaurants
+21280	American (New)
+21280	Burgers
+21280	Food
+21280	Juice Bars & Smoothies
+21280	Pizza
+21280	Restaurants
+21280	Sandwiches
+21305	Barbeque
+21305	Bars
+21305	Korean
+21305	Nightlife
+21305	Restaurants
+21378	Asian Fusion
+21378	Bars
+21378	Beer
+21378	Breakfast & Brunch
+21378	Burgers
+21378	Food
+21378	Nightlife
+21378	Restaurants
+21378	Wine & Spirits
+21405	Drugstores
+21405	Food
+21405	Grocery
+21405	Shopping
+21465	American (New)
+21465	Arts & Entertainment
+21465	Bars
+21465	Cinema
+21465	Cocktail Bars
+21465	Dinner Theater
+21465	Nightlife
+21465	Restaurants
+21593	American (New)
+21593	Breakfast & Brunch
+21593	Restaurants
+21897	Japanese
+21897	Noodles
+21897	Ramen
+21897	Restaurants
+21897	Soup
+22366	Bars
+22366	Cocktail Bars
+22366	Mexican
+22366	Nightlife
+22366	Restaurants
+22367	American (Traditional)
+22367	Burgers
+22367	Food
+22367	Ice Cream & Frozen Yogurt
+22367	Restaurants
+22410	American (Traditional)
+22410	Burgers
+22410	Diners
+22410	Hot Dogs
+22410	Restaurants
+22410	Sandwiches
+22637	Arts & Entertainment
+22637	Food
+22637	Local Flavor
+22637	Performing Arts
+22637	Street Vendors
+22778	American (New)
+22778	Restaurants
+22900	American (Traditional)
+22900	Breakfast & Brunch
+22900	Restaurants
+22917	Bakeries
+22917	Cupcakes
+22917	Desserts
+22917	Food
+22998	Fondue
+22998	Japanese
+22998	Restaurants
+23195	Donuts
+23195	Food
+23451	American (Traditional)
+23451	Bakeries
+23451	Bars
+23451	Beer
+23451	Breakfast & Brunch
+23451	Cafes
+23451	Cocktail Bars
+23451	Food
+23451	Gastropubs
+23451	Lounges
+23451	Nightlife
+23451	Restaurants
+23451	Sports Bars
+23451	Wine & Spirits
+23574	Burgers
+23574	Restaurants
+23590	American (Traditional)
+23590	Breakfast & Brunch
+23590	Burgers
+23590	Restaurants
+23590	Sandwiches
+23654	Landmarks & Historical Buildings
+23654	Local Flavor
+23654	Public Services & Government
+23705	Cafes
+23705	Delis
+23705	Restaurants
+23705	Sandwiches
+23930	Breakfast & Brunch
+23930	Restaurants
+24328	Restaurants
+24328	Tapas Bars
+24328	Tapas/Small Plates
+24418	Desserts
+24418	Food
+24418	Restaurants
+24418	Sushi Bars
+24901	Italian
+24901	Restaurants
+25162	Food
+25162	Ice Cream & Frozen Yogurt
+25192	Caterers
+25192	Delis
+25192	Event Planning & Services
+25192	Restaurants
+25192	Salad
+25192	Sandwiches
+25452	Bars
+25452	Dance Clubs
+25452	Nightlife
+25615	Bars
+25615	Breakfast & Brunch
+25615	Coffee & Tea
+25615	Food
+25615	Italian
+25615	Nightlife
+25615	Restaurants
+25773	Breakfast & Brunch
+25773	Burgers
+25773	Food
+25773	Juice Bars & Smoothies
+25773	Restaurants
+25773	Sandwiches
+26068	Bars
+26068	Cocktail Bars
+26068	Event Planning & Services
+26068	Italian
+26068	Nightlife
+26068	Pizza
+26068	Restaurants
+26068	Venues & Event Spaces
+26068	Wine Bars
+26240	Coffee & Tea
+26240	Food
+26240	Juice Bars & Smoothies
+26240	Macarons
+26240	Specialty Food
+26699	Beauty & Spas
+26699	Cosmetics & Beauty Supply
+26699	Day Spas
+26699	Health & Medical
+26699	Massage
+26699	Massage Therapy
+26699	Reflexology
+26699	Shopping
+26699	Skin Care
+27048	American (Traditional)
+27048	Breakfast & Brunch
+27048	Gluten-Free
+27048	Restaurants
+27139	American (Traditional)
+27139	Burgers
+27139	Restaurants
+27286	American (New)
+27286	Restaurants
+27301	American (New)
+27301	Italian
+27301	Pizza
+27301	Restaurants
+27301	Salad
+27301	Seafood
+27779	American (Traditional)
+27779	Cajun/Creole
+27779	Chicken Wings
+27779	Food
+27779	Restaurants
+27779	Seafood
+27805	Arts & Entertainment
+27805	Casinos
+27805	Event Planning & Services
+27805	Hotels
+27805	Hotels & Travel
+28195	Barbeque
+28195	Burgers
+28195	Restaurants
+28195	Soul Food
+28597	Automotive
+28597	Bars
+28597	Car Dealers
+28597	Nightlife
+28597	Restaurants
+28597	Seafood
+28597	Thai
+28597	Wine Bars
+28722	American (New)
+28722	Restaurants
+28722	Seafood
+28829	Breakfast & Brunch
+28829	Buffets
+28829	Food
+28829	Restaurants
+28865	Restaurants
+28865	Thai
+28888	American (New)
+28888	Bars
+28888	Lounges
+28888	Nightlife
+28888	Restaurants
+28923	Bakeries
+28923	Beer
+28923	Cafes
+28923	Coffee & Tea
+28923	Desserts
+28923	Food
+28923	Restaurants
+28923	Wine & Spirits
+28990	Arts & Entertainment
+28990	Bars
+28990	Casinos
+28990	Event Planning & Services
+28990	Hotels
+28990	Hotels & Travel
+28990	Nightlife
+29243	Mediterranean
+29243	Middle Eastern
+29243	Restaurants
+29605	Bubble Tea
+29605	Coffee & Tea
+29605	Desserts
+29605	Food
+29605	Ice Cream & Frozen Yogurt
+29605	Juice Bars & Smoothies
+30040	Bakeries
+30040	Bed & Breakfast
+30040	Breakfast & Brunch
+30040	Cafes
+30040	Food
+30040	Hotels & Travel
+30040	Restaurants
+30293	Greek
+30293	Mediterranean
+30293	Middle Eastern
+30293	Restaurants
+30929	American (New)
+30929	Breakfast & Brunch
+30929	Mexican
+30929	Restaurants
+30929	Tex-Mex
+31335	Cafes
+31335	Creperies
+31335	French
+31335	Gluten-Free
+31335	Restaurants
+31559	Active Life
+31559	Animal Shelters
+31559	Event Planning & Services
+31559	Horseback Riding
+31559	Hotels & Travel
+31559	Landmarks & Historical Buildings
+31559	Party & Event Planning
+31559	Pets
+31559	Public Services & Government
+31559	Restaurants
+31559	Vacation Rentals
+31559	Venues & Event Spaces
+31559	Zoos
+31690	American (New)
+31690	Breakfast & Brunch
+31690	Restaurants
+31690	Sandwiches
+31968	Food
+31968	Hawaiian
+31968	Poke
+31968	Restaurants
+32280	Bars
+32280	Lounges
+32280	Mexican
+32280	Nightlife
+32280	Restaurants
+32807	Desserts
+32807	Food
+32807	Ice Cream & Frozen Yogurt
+32807	Shaved Ice
+32886	Noodles
+32886	Restaurants
+32886	Thai
+32894	American (Traditional)
+32894	Breakfast & Brunch
+32894	Gluten-Free
+32894	Restaurants
+33219	American (Traditional)
+33219	Breakfast & Brunch
+33219	Burgers
+33219	Mexican
+33219	Restaurants
+33219	Salad
+33219	Sandwiches
+33952	Japanese
+33952	Restaurants
+33952	Sushi Bars
+33966	Arts & Entertainment
+33966	Performing Arts
+33986	American (Traditional)
+33986	Breakfast & Brunch
+33986	Diners
+33986	Restaurants
+34313	Asian Fusion
+34313	Japanese
+34313	Restaurants
+34313	Sushi Bars
+34359	American (New)
+34359	American (Traditional)
+34359	Barbeque
+34359	Cafes
+34359	Chicken Shop
+34359	Food
+34359	Restaurants
+34359	Salad
+34359	Sandwiches
+34359	Wraps
+34361	Active Life
+34361	Amusement Parks
+34361	Community Service/Non-Profit
+34361	Local Services
+34381	American (New)
+34381	American (Traditional)
+34381	Asian Fusion
+34381	Bars
+34381	Beer Bar
+34381	Cocktail Bars
+34381	Nightlife
+34381	Restaurants
+34381	Seafood
+34381	Sports Bars
+34381	Steakhouses
+34381	Vegetarian
+34381	Wine Bars
+34390	American (New)
+34390	Breakfast & Brunch
+34390	Chocolatiers & Shops
+34390	Coffee & Tea
+34390	Desserts
+34390	Food
+34390	Restaurants
+34390	Specialty Food
+34558	Restaurants
+34558	Thai
+34985	Asian Fusion
+34985	Restaurants
+34985	Seafood
+34985	Thai
+35051	Breakfast & Brunch
+35051	Restaurants
+35279	Asian Fusion
+35279	Chicken Wings
+35279	Hot Dogs
+35279	Korean
+35279	Restaurants
+35469	Restaurants
+35469	Thai
+35606	Bars
+35606	Nightlife
+35606	Pizza
+35606	Restaurants
+35611	Art Supplies
+35611	Arts & Crafts
+35611	Event Planning & Services
+35611	Hobby Shops
+35611	Home & Garden
+35611	Home Decor
+35611	Shopping
+35611	Wedding Planning
+35629	American (New)
+35629	Breweries
+35629	Food
+35629	Restaurants
+36368	American (New)
+36368	Bars
+36368	Cocktail Bars
+36368	Nightlife
+36368	Restaurants
+36368	Wine Bars
+36377	Japanese
+36377	Karaoke
+36377	Nightlife
+36377	Restaurants
+36377	Sushi Bars
+36501	Japanese
+36501	Restaurants
+36501	Salad
+36501	Sushi Bars
+36564	Mexican
+36564	Restaurants
+36564	Vegan
+36564	Vegetarian
+36568	Active Life
+36568	Arts & Entertainment
+36568	Children's Museums
+36568	Community Service/Non-Profit
+36568	Event Planning & Services
+36568	Local Services
+36568	Museums
+36568	Summer Camps
+36568	Venues & Event Spaces
+36723	Brazilian
+36723	Food
+36723	Ice Cream & Frozen Yogurt
+36723	Juice Bars & Smoothies
+36723	Restaurants
+36723	Sandwiches
+37532	Bagels
+37532	Bakeries
+37532	Breakfast & Brunch
+37532	Food
+37532	Restaurants
+37532	Salad
+37532	Sandwiches
+37532	Soup
+37657	Arts & Entertainment
+37657	Casinos
+37657	Performing Arts
+37772	Desserts
+37772	Food
+37772	Korean
+37772	Restaurants
+37772	Soup
+38042	Restaurants
+38042	Steakhouses
+38258	American (New)
+38258	American (Traditional)
+38258	Asian Fusion
+38258	Beer
+38258	Food
+38258	Italian
+38258	Restaurants
+38258	Seafood
+38258	Tapas Bars
+38258	Wine & Spirits
+38308	Active Life
+38308	Boot Camps
+38308	Fitness & Instruction
+38308	Gyms
+38308	Pilates
+38310	Restaurants
+38310	Thai
+38399	Airports
+38399	Hotels & Travel
+38403	Cheesesteaks
+38403	Restaurants
+38403	Sandwiches
+39246	Arts & Entertainment
+39246	Performing Arts
+39384	Arts & Entertainment
+39384	Casinos
+39384	Event Planning & Services
+39384	Hotels
+39384	Hotels & Travel
+39519	Asian Fusion
+39519	Delis
+39519	Ethnic Food
+39519	Food
+39519	Pizza
+39519	Restaurants
+39519	Sandwiches
+39519	Specialty Food
+39740	Breakfast & Brunch
+39740	Food
+39740	Hawaiian
+39740	Japanese
+39740	Poke
+39740	Restaurants
+39740	Sushi Bars
+39762	American (New)
+39762	Breakfast & Brunch
+39762	Caterers
+39762	Event Planning & Services
+39762	Party & Event Planning
+39762	Restaurants
+39762	Spanish
+39882	American (New)
+39882	American (Traditional)
+39882	Breakfast & Brunch
+39882	Restaurants
+40005	Asian Fusion
+40005	Japanese
+40005	Mexican
+40005	Restaurants
+40005	Sushi Bars
+40033	American (New)
+40033	Cafes
+40033	Restaurants
+40033	Salad
+40033	Sandwiches
+40033	Soup
+40101	Department Stores
+40101	Fashion
+40101	Food
+40101	Shopping
+40129	Restaurants
+40129	Seafood
+40129	Steakhouses
+40134	American (New)
+40134	American (Traditional)
+40134	Desserts
+40134	Food
+40134	Restaurants
+40134	Seafood
+40408	Restaurants
+40408	Salad
+40408	Soup
+40408	Thai
+40515	Breakfast & Brunch
+40515	Mexican
+40515	Restaurants
+40516	Gluten-Free
+40516	Pizza
+40516	Restaurants
+40614	Arts & Entertainment
+40614	Bars
+40614	Lounges
+40614	Music Venues
+40614	Nightlife
+40690	Noodles
+40690	Restaurants
+40690	Seafood
+40690	Vietnamese
+40758	Arts & Entertainment
+40758	Bars
+40758	Beer
+40758	Casinos
+40758	Desserts
+40758	Food
+40758	Nightlife
+40758	Wine & Spirits
+40776	Burgers
+40776	Restaurants
+41324	American (New)
+41324	Restaurants
+41324	Salad
+41324	Soup
+41324	Steakhouses
+41353	Barbeque
+41353	Buffets
+41353	Korean
+41353	Restaurants
+41627	Restaurants
+41627	Vietnamese
+41694	Bakeries
+41694	Creperies
+41694	Desserts
+41694	Food
+41694	Patisserie/Cake Shop
+41694	Restaurants
+42056	Mexican
+42056	Restaurants
+42103	American (Traditional)
+42103	Bars
+42103	Beer
+42103	Food
+42103	Lounges
+42103	Nightlife
+42103	Restaurants
+42103	Sports Bars
+42103	Wine & Spirits
+42230	Japanese
+42230	Restaurants
+42230	Sushi Bars
+42756	American (New)
+42756	American (Traditional)
+42756	Bars
+42756	Cantonese
+42756	Chinese
+42756	Dance Clubs
+42756	Dim Sum
+42756	Lounges
+42756	Nightlife
+42756	Restaurants
+42989	Cantonese
+42989	Chinese
+42989	Dim Sum
+42989	Restaurants
+42989	Seafood
+42994	Candy Stores
+42994	Chocolatiers & Shops
+42994	Desserts
+42994	Flowers & Gifts
+42994	Food
+42994	Popcorn Shops
+42994	Shopping
+42994	Specialty Food
+43114	American (Traditional)
+43114	Bars
+43114	Burgers
+43114	Nightlife
+43114	Restaurants
+43114	Sports Bars
+43122	Active Life
+43122	Arts & Entertainment
+43122	Botanical Gardens
+43122	Event Planning & Services
+43122	Parks
+43122	Venues & Event Spaces
+43434	American (New)
+43434	American (Traditional)
+43434	Arts & Entertainment
+43434	Bars
+43434	Beer
+43434	Beer Bar
+43434	Casinos
+43434	Food
+43434	Music Venues
+43434	Nightlife
+43434	Pubs
+43434	Restaurants
+43434	Wine & Spirits
+43519	Chinese
+43519	Restaurants
+43534	American (Traditional)
+43534	Barbeque
+43534	Restaurants
+43534	Salad
+43534	Sandwiches
+43534	Southern
+43702	Bars
+43702	Mexican
+43702	Nightlife
+43702	Restaurants
+44398	Breakfast & Brunch
+44398	Coffee & Tea
+44398	Food
+44398	Restaurants
+44482	Breakfast & Brunch
+44482	Gluten-Free
+44482	Pizza
+44482	Restaurants
+44482	Salad
+44482	Tapas Bars
+44482	Tapas/Small Plates
+44621	Asian Fusion
+44621	Japanese
+44621	Restaurants
+44621	Sushi Bars
+44630	Barbeque
+44630	Korean
+44630	Restaurants
+44721	Bars
+44721	Breakfast & Brunch
+44721	Japanese
+44721	Karaoke
+44721	Nightlife
+44721	Restaurants
+44721	Steakhouses
+44721	Sushi Bars
+44721	Teppanyaki
+44725	Barbeque
+44725	Buffets
+44725	Korean
+44725	Restaurants
+44728	Bakeries
+44728	Caterers
+44728	Desserts
+44728	Event Planning & Services
+44728	Food
+44728	Ice Cream & Frozen Yogurt
+44728	Restaurants
+44728	Sandwiches
+45399	Breakfast & Brunch
+45399	Desserts
+45399	Food
+45399	Restaurants
+46022	Asian Fusion
+46022	Chicken Shop
+46022	Chinese
+46022	Restaurants
+46022	Singaporean
+46222	Gluten-Free
+46222	Italian
+46222	Restaurants
+46222	Vegan
+46256	Brazilian
+46256	Restaurants
+46256	Seafood
+46256	Steakhouses
+46281	Arts & Entertainment
+46281	Beauty & Spas
+46281	Casinos
+46281	Day Spas
+46281	Event Planning & Services
+46281	Hotels
+46281	Hotels & Travel
+46801	Barbeque
+46801	Cantonese
+46801	Chinese
+46801	Hawaiian
+46801	Restaurants
+47192	Japanese
+47192	Restaurants
+47260	Restaurants
+47260	Thai
+47462	Active Life
+47462	Bowling
+47612	American (Traditional)
+47612	Breakfast & Brunch
+47612	Burgers
+47612	Food
+47612	Pretzels
+47612	Restaurants
+47612	Sandwiches
+47903	Chocolatiers & Shops
+47903	Food
+47903	Specialty Food
+48325	Japanese
+48325	Noodles
+48325	Ramen
+48325	Restaurants
+48872	Japanese
+48872	Restaurants
+48872	Salad
+48872	Sushi Bars
+48910	Arts & Entertainment
+48910	Bars
+48910	Casinos
+48910	Event Planning & Services
+48910	Hotels
+48910	Hotels & Travel
+48910	Nightlife
+48935	Barbeque
+48935	Korean
+48935	Restaurants
+49168	Italian
+49168	Restaurants
+49169	Asian Fusion
+49169	Beer
+49169	Food
+49169	Japanese
+49169	Korean
+49169	Ramen
+49169	Restaurants
+49169	Tapas Bars
+49169	Tapas/Small Plates
+49169	Vegetarian
+49169	Wine & Spirits
+49201	Pizza
+49201	Restaurants
+49249	Delis
+49249	Italian
+49249	Pizza
+49249	Restaurants
+49296	Japanese
+49296	Restaurants
+49296	Steakhouses
+49296	Sushi Bars
+49322	Caterers
+49322	Event Planning & Services
+49322	Mexican
+49322	Restaurants
+49420	Beer Gardens
+49420	Nightlife
+49420	Restaurants
+49420	Thai
+49667	American (New)
+49667	Bars
+49667	Breweries
+49667	Food
+49667	Nightlife
+49667	Pizza
+49667	Pubs
+49667	Restaurants
+49667	Sports Bars
+49673	American (New)
+49673	American (Traditional)
+49673	Bars
+49673	Nightlife
+49673	Restaurants
+49695	Breakfast & Brunch
+49695	Coffee & Tea
+49695	Food
+49695	Restaurants
+49695	Sandwiches
+49998	American (Traditional)
+49998	Bars
+49998	Burgers
+49998	Lounges
+49998	Nightlife
+49998	Restaurants
+50579	Ethnic Food
+50579	Filipino
+50579	Food
+50579	Grocery
+50579	Restaurants
+50579	Seafood Markets
+50579	Specialty Food
+50665	Italian
+50665	Pizza
+50665	Restaurants
+50665	Salad
+50953	Electronics
+50953	Shopping
+50955	American (Traditional)
+50955	Arts & Entertainment
+50955	Breweries
+50955	Casinos
+50955	Food
+50955	Restaurants
+51178	Arts & Entertainment
+51178	Bars
+51178	Burgers
+51178	Music Venues
+51178	Nightlife
+51178	Restaurants
+51411	Pizza
+51411	Restaurants
+51680	Halal
+51680	Indian
+51680	Restaurants
+51680	Vegan
+51698	Greek
+51698	Mediterranean
+51698	Restaurants
+51747	Beer
+51747	Flowers & Gifts
+51747	Food
+51747	Grocery
+51747	Head Shops
+51747	Shopping
+51747	Tobacco Shops
+51747	Wine & Spirits
+51754	American (New)
+51754	Bars
+51754	Breakfast & Brunch
+51754	Burgers
+51754	Mexican
+51754	Nightlife
+51754	Pubs
+51754	Restaurants
+51754	Sports Bars
+51754	Tex-Mex
+51754	Vegan
+51995	American (Traditional)
+51995	Bars
+51995	Breakfast & Brunch
+51995	Burgers
+51995	Cafes
+51995	Nightlife
+51995	Restaurants
+51995	Wine Bars
+52201	Bars
+52201	Italian
+52201	Nightlife
+52201	Restaurants
+52201	Wine Bars
+52338	Arts & Entertainment
+52338	Music Venues
+52338	Nightlife
+52338	Performing Arts
+52338	Stadiums & Arenas
+52353	Breakfast & Brunch
+52353	Burgers
+52353	Fast Food
+52353	Restaurants
+52424	Breakfast & Brunch
+52424	Coffee & Tea
+52424	Food
+52424	Hawaiian
+52424	Restaurants
+52684	Japanese
+52684	Restaurants
+52684	Sushi Bars
+52748	American (New)
+52748	American (Traditional)
+52748	Chicken Shop
+52748	Chicken Wings
+52748	Fast Food
+52748	Restaurants
+52883	American (New)
+52883	Bars
+52883	Breakfast & Brunch
+52883	Nightlife
+52883	Restaurants
+53182	Accessories
+53182	Fashion
+53182	Home & Garden
+53182	Home Decor
+53182	Kitchen & Bath
+53182	Local Services
+53182	Office Equipment
+53182	Self Storage
+53182	Shopping
+53423	Restaurants
+53423	Seafood
+53423	Southern
+53697	Brazilian
+53697	Restaurants
+53697	Seafood
+53697	Steakhouses
+54242	Chinese
+54242	Noodles
+54242	Restaurants
+54242	Thai
+54242	Vegan
+54244	American (Traditional)
+54244	Breakfast & Brunch
+54244	French
+54244	Restaurants
+54354	Bakeries
+54354	Breakfast & Brunch
+54354	Cafes
+54354	Creperies
+54354	Food
+54354	French
+54354	Restaurants
+54471	Burgers
+54471	Restaurants
+55208	Burgers
+55208	Fast Food
+55208	Restaurants
+55262	Bars
+55262	Mexican
+55262	Nightlife
+55262	Restaurants
+55273	Japanese
+55273	Noodles
+55273	Ramen
+55273	Restaurants
+55444	Coffee & Tea
+55444	Desserts
+55444	Food
+55444	Ice Cream & Frozen Yogurt
+55478	Desserts
+55478	Food
+55478	Restaurants
+55478	Seafood
+55478	Thai
+55517	Active Life
+55517	American (New)
+55517	American (Traditional)
+55517	Arcades
+55517	Arts & Entertainment
+55517	Bowling
+55517	Gastropubs
+55517	Restaurants
+55527	Arts & Entertainment
+55527	Casinos
+55527	Event Planning & Services
+55527	Hotels
+55527	Hotels & Travel
+55527	Resorts
+55691	Mexican
+55691	Restaurants
+55711	Asian Fusion
+55711	Chinese
+55711	Malaysian
+55711	Noodles
+55711	Restaurants
+55711	Soup
+55711	Taiwanese
+55882	Bars
+55882	Event Planning & Services
+55882	Italian
+55882	Nightlife
+55882	Restaurants
+55882	Venues & Event Spaces
+55882	Wine Bars
+55923	Bars
+55923	French
+55923	Nightlife
+55923	Restaurants
+55923	Wine Bars
+56053	Mexican
+56053	Restaurants
+57057	Beauty & Spas
+57057	Eyebrow Services
+57057	Eyelash Service
+57057	Hair Removal
+57057	Laser Hair Removal
+57057	Skin Care
+57057	Threading Services
+57057	Waxing
+57255	Active Life
+57255	Amusement Parks
+57255	Arcades
+57255	Arts & Entertainment
+57255	Museums
+57255	Performing Arts
+57510	American (Traditional)
+57510	French
+57510	Restaurants
+57542	American (Traditional)
+57542	Japanese
+57542	Restaurants
+57542	Sushi Bars
+57765	Mexican
+57765	Restaurants
+57765	Tacos
+57769	Bars
+57769	Cocktail Bars
+57769	Event Planning & Services
+57769	Mexican
+57769	Nightlife
+57769	Restaurants
+57769	Venues & Event Spaces
+57771	Bars
+57771	Lounges
+57771	Nightlife
+57773	Desserts
+57773	Food
+57773	Ice Cream & Frozen Yogurt
+57773	Local Flavor
+57773	Shaved Ice
+58180	Asian Fusion
+58180	Chinese
+58180	Ethnic Food
+58180	Food
+58180	Malaysian
+58180	Restaurants
+58180	Singaporean
+58180	Specialty Food
+58180	Thai
+58414	Bars
+58414	Cocktail Bars
+58414	Food
+58414	Mexican
+58414	Nightlife
+58414	Restaurants
+58414	Specialty Food
+58524	Asian Fusion
+58524	Barbeque
+58524	Bars
+58524	Beer Bar
+58524	Karaoke
+58524	Lounges
+58524	Nightlife
+58524	Restaurants
+59075	Asian Fusion
+59075	Chicken Wings
+59075	Korean
+59075	Restaurants
+59218	Bakeries
+59218	Breakfast & Brunch
+59218	Bubble Tea
+59218	Cafes
+59218	Coffee & Tea
+59218	Desserts
+59218	Food
+59218	Juice Bars & Smoothies
+59218	Patisserie/Cake Shop
+59218	Restaurants
+59848	Hot Dogs
+59848	Pizza
+59848	Restaurants
+60515	American (Traditional)
+60515	Breakfast & Brunch
+60515	Burgers
+60515	Restaurants
+60552	Restaurants
+60552	Thai
+60778	Shopping
+60778	Shopping Centers
+60821	Brazilian
+60821	Event Planning & Services
+60821	Restaurants
+60821	Steakhouses
+60821	Venues & Event Spaces
+60910	American (New)
+60910	American (Traditional)
+60910	Desserts
+60910	Food
+60910	Restaurants
+61072	Asian Fusion
+61072	Bars
+61072	Japanese
+61072	Lounges
+61072	Nightlife
+61072	Restaurants
+61116	American (Traditional)
+61116	Barbeque
+61116	Cafes
+61116	Chicken Wings
+61116	Restaurants
+61116	Salad
+61116	Sandwiches
+61116	Wraps
+61281	Mexican
+61281	Restaurants
+61555	American (New)
+61555	Bars
+61555	Desserts
+61555	Food
+61555	French
+61555	Nightlife
+61555	Restaurants
+62177	Korean
+62177	Restaurants
+62242	Adult Entertainment
+62242	Bars
+62242	Dance Clubs
+62242	Nightlife
+62369	Pizza
+62369	Restaurants
+62624	French
+62624	Restaurants
+62666	Desserts
+62666	Food
+62666	Juice Bars & Smoothies
+62666	Shaved Ice
+62724	Breakfast & Brunch
+62724	Buffets
+62724	Restaurants
+62813	Diners
+62813	Restaurants
+62826	Arts & Entertainment
+62826	Casinos
+62826	Event Planning & Services
+62826	Hotels
+62826	Hotels & Travel
+62826	Resorts
+62850	Restaurants
+62850	Sushi Bars
+62958	Arts & Entertainment
+62958	Casinos
+62958	Event Planning & Services
+62958	Hotels
+62958	Hotels & Travel
+63221	American (New)
+63221	Beer
+63221	Breweries
+63221	Food
+63221	Pizza
+63221	Restaurants
+63221	Wine & Spirits
+63643	Barbeque
+63643	Restaurants
+63643	Sandwiches
+63643	Southern
+63864	Asian Fusion
+63864	Delis
+63864	Restaurants
+63864	Sandwiches
+63864	Vietnamese
+63980	American (New)
+63980	Asian Fusion
+63980	Breakfast & Brunch
+63980	Burgers
+63980	Ethnic Food
+63980	Food
+63980	Korean
+63980	Mexican
+63980	Restaurants
+63980	Sandwiches
+63980	Specialty Food
+64163	Beer
+64163	Florists
+64163	Flowers & Gifts
+64163	Food
+64163	Grocery
+64163	Shopping
+64163	Specialty Food
+64163	Wine & Spirits
+64164	American (New)
+64164	Bars
+64164	Beer
+64164	Breakfast & Brunch
+64164	Food
+64164	Lounges
+64164	Nightlife
+64164	Restaurants
+64164	Tapas Bars
+64164	Tapas/Small Plates
+64164	Wine & Spirits
+64164	Wine Bars
+64345	Arts & Entertainment
+64345	Casinos
+64345	Performing Arts
+64612	Restaurants
+64612	Vietnamese
+64751	American (New)
+64751	Restaurants
+64751	Seafood
+64751	Steakhouses
+65471	Bars
+65471	Japanese
+65471	Lounges
+65471	Nightlife
+65471	Restaurants
+65471	Sushi Bars
+65525	Breakfast & Brunch
+65525	Restaurants
+65525	Steakhouses
+65670	Active Life
+65670	Arts & Entertainment
+65670	Bowling
+65670	Casinos
+65670	Event Planning & Services
+65670	Hotels
+65670	Hotels & Travel
+65925	Bakeries
+65925	Coffee & Tea
+65925	Donuts
+65925	Food
+66032	American (New)
+66032	Gastropubs
+66032	Restaurants
+66032	Seafood
+66032	Steakhouses
+66071	Coffee & Tea
+66071	Food
+66071	Restaurants
+66071	Sushi Bars
+66339	Landmarks & Historical Buildings
+66339	Local Flavor
+66339	Public Art
+66339	Public Services & Government
+66387	Event Planning & Services
+66387	Italian
+66387	Restaurants
+66387	Venues & Event Spaces
+67020	Arts & Entertainment
+67020	Casinos
+67020	Event Planning & Services
+67020	Hotels
+67020	Hotels & Travel
+67051	American (Traditional)
+67051	Bagels
+67051	Breakfast & Brunch
+67051	Food
+67051	Restaurants
+67139	American (Traditional)
+67139	Breweries
+67139	Food
+67139	Restaurants
+67303	Bars
+67303	Cocktail Bars
+67303	Nightlife
+67303	Restaurants
+67303	Steakhouses
+67861	Japanese
+67861	Noodles
+67861	Ramen
+67861	Restaurants
+68043	Arts & Entertainment
+68043	Casinos
+68043	Event Planning & Services
+68043	Hotels
+68043	Hotels & Travel
+68043	Resorts
+68094	American (Traditional)
+68094	Breakfast & Brunch
+68094	Restaurants
+68094	Sandwiches
+68330	American (New)
+68330	American (Traditional)
+68330	Pizza
+68330	Restaurants
+68330	Salad
+68607	Italian
+68607	Pizza
+68607	Restaurants
+68669	Mexican
+68669	Restaurants
+68784	Fashion
+68784	Outlet Stores
+68784	Restaurants
+68784	Shopping
+68784	Shopping Centers
+68913	American (Traditional)
+68913	Bars
+68913	Chicken Wings
+68913	Nightlife
+68913	Restaurants
+68913	Sports Bars
+69288	American (New)
+69288	American (Traditional)
+69288	Bars
+69288	Cocktail Bars
+69288	Nightlife
+69288	Restaurants
+69288	Sandwiches
+69288	Wine Bars
+69652	Active Life
+69652	Arts & Entertainment
+69652	Dance Clubs
+69652	Music Venues
+69652	Nightlife
+69652	Restaurants
+69652	Swimming Pools
+69939	Burgers
+69939	Fast Food
+69939	Restaurants
+69943	Breakfast & Brunch
+69943	Coffee & Tea
+69943	Donuts
+69943	Food
+69943	Restaurants
+69949	Restaurants
+69949	Steakhouses
+70312	Japanese
+70312	Restaurants
+70312	Seafood
+70312	Sushi Bars
+70416	Bars
+70416	Cocktail Bars
+70416	Mexican
+70416	Nightlife
+70416	Restaurants
+70643	Chinese
+70643	Food
+70643	Restaurants
+70643	Street Vendors
+70848	Mexican
+70848	Restaurants
+70982	American (Traditional)
+70982	Breakfast & Brunch
+70982	Cafes
+70982	Restaurants
+71109	Barbeque
+71109	Buffets
+71109	Korean
+71109	Restaurants
+71346	Bakeries
+71346	Coffee & Tea
+71346	Food
+71501	Chocolatiers & Shops
+71501	Coffee & Tea
+71501	Desserts
+71501	Food
+71501	Specialty Food
+71879	Restaurants
+71879	Thai
+71879	Vegan
+71879	Vegetarian
+71901	Libraries
+71901	Public Services & Government
+72013	Food
+72013	Ice Cream & Frozen Yogurt
+72578	Food
+72578	Italian
+72578	Pasta Shops
+72578	Pizza
+72578	Restaurants
+72578	Specialty Food
+72764	Japanese
+72764	Ramen
+72764	Restaurants
+73108	American (New)
+73108	American (Traditional)
+73108	Asian Fusion
+73108	Restaurants
+73108	Sushi Bars
+73173	Food
+73173	Hawaiian
+73173	Japanese
+73173	Poke
+73173	Restaurants
+73173	Sushi Bars
+73339	Arts & Entertainment
+73339	Casinos
+73339	Event Planning & Services
+73339	Hotels
+73339	Hotels & Travel
+73339	Resorts
+73665	Arts & Entertainment
+73665	Performing Arts
+73669	French
+73669	Restaurants
+73954	Asian Fusion
+73954	Filipino
+73954	Hawaiian
+73954	Japanese
+73954	Restaurants
+74394	American (Traditional)
+74394	Breakfast & Brunch
+74394	Restaurants
+74425	Beauty & Spas
+74425	Day Spas
+74425	Massage
+74425	Skin Care
+74624	Bars
+74624	Italian
+74624	Nightlife
+74624	Pizza
+74624	Restaurants
+74624	Wine Bars
+74994	Burgers
+74994	Restaurants
+75841	Hawaiian
+75841	Restaurants
+76420	Greek
+76420	Mediterranean
+76420	Middle Eastern
+76420	Restaurants
+76501	Indian
+76501	Restaurants
+76766	Bars
+76766	Event Planning & Services
+76766	Nightlife
+76766	Pubs
+76766	Sports Bars
+76766	Venues & Event Spaces
+77018	American (New)
+77018	Restaurants
+77353	Arts & Entertainment
+77353	Casinos
+77353	Event Planning & Services
+77353	Hotels
+77353	Hotels & Travel
+78042	Food Stands
+78042	Latin American
+78042	Restaurants
+78042	Venezuelan
+78192	American (Traditional)
+78192	Restaurants
+78313	Bars
+78313	French
+78313	Lounges
+78313	Nightlife
+78313	Restaurants
+78313	Steakhouses
+78410	American (New)
+78410	Desserts
+78410	Food
+78410	Gluten-Free
+78410	Restaurants
+78410	Sushi Bars
+78656	American (Traditional)
+78656	Bars
+78656	Nightlife
+78656	Pubs
+78656	Restaurants
+78745	Arts & Entertainment
+78745	Casinos
+78745	Event Planning & Services
+78745	Hotels
+78745	Hotels & Travel
+78746	American (Traditional)
+78746	Breakfast & Brunch
+78746	Restaurants
+79034	Indian
+79034	Restaurants
+79301	Bakeries
+79301	Coffee & Tea
+79301	Coffee Roasteries
+79301	Food
+79641	Buffets
+79641	Japanese
+79641	Restaurants
+79641	Sushi Bars
+79817	Asian Fusion
+79817	Buffets
+79817	Food
+79817	Japanese
+79817	Restaurants
+79817	Sushi Bars
+79982	American (Traditional)
+79982	Bars
+79982	Cocktail Bars
+79982	Nightlife
+79982	Restaurants
+79982	Salad
+79982	Seafood
+79982	Steakhouses
+80002	Pizza
+80002	Restaurants
+80095	Restaurants
+80095	Tapas/Small Plates
+80437	American (New)
+80437	Italian
+80437	Restaurants
+80597	Gluten-Free
+80597	Pizza
+80597	Restaurants
+80597	Salad
+80635	Caterers
+80635	Event Planning & Services
+80635	Food
+80635	Italian
+80635	Pizza
+80635	Restaurants
+80649	Desserts
+80649	Food
+80649	Italian
+80649	Pizza
+80649	Restaurants
+81397	Barbeque
+81397	Caterers
+81397	Event Planning & Services
+81397	Farmers Market
+81397	Food
+81397	Restaurants
+81397	Street Vendors
+81453	American (Traditional)
+81453	Bars
+81453	Chicken Wings
+81453	Nightlife
+81453	Restaurants
+81453	Sports Bars
+81577	Beer
+81577	Food
+81577	Japanese
+81577	Restaurants
+81577	Teppanyaki
+81577	Wine & Spirits
+81715	American (New)
+81715	Restaurants
+81715	Spanish
+81715	Tapas/Small Plates
+81803	Coffee & Tea
+81803	Desserts
+81803	Food
+81803	Restaurants
+81803	Tapas Bars
+81803	Tea Rooms
+81856	Bakeries
+81856	Food
+81856	Ice Cream & Frozen Yogurt
+81856	Juice Bars & Smoothies
+81856	Patisserie/Cake Shop
+81856	Restaurants
+82291	Arts & Entertainment
+82291	Bars
+82291	Dive Bars
+82291	Music Venues
+82291	Nightlife
+82367	Asian Fusion
+82367	Hawaiian
+82367	Korean
+82367	Restaurants
+82826	Asian Fusion
+82826	Chinese
+82826	Dim Sum
+82826	Korean
+82826	Restaurants
+82852	Food
+82852	Grocery
+82852	Halal
+82852	Kosher
+82852	Mediterranean
+82852	Middle Eastern
+82852	Persian/Iranian
+82852	Restaurants
+83104	Active Life
+83104	Disc Golf
+83104	Dog Parks
+83104	Fishing
+83104	Parks
+83578	American (New)
+83578	Restaurants
+83578	Sandwiches
+83578	Vietnamese
+83803	Pizza
+83803	Restaurants
+84037	Active Life
+84037	Parks
+84037	Playgrounds
+84104	Chicken Shop
+84104	Food
+84104	Noodles
+84104	Restaurants
+84104	Thai
+84272	Arcades
+84272	Arts & Entertainment
+84272	Bars
+84272	Nightlife
+84412	American (New)
+84412	American (Traditional)
+84412	Arts & Entertainment
+84412	Bars
+84412	Casinos
+84412	Chicken Wings
+84412	Event Planning & Services
+84412	Hotels
+84412	Hotels & Travel
+84412	Nightlife
+84412	Restaurants
+84570	Adult Entertainment
+84570	Bubble Tea
+84570	Coffee & Tea
+84570	Desserts
+84570	Food
+84570	Nightlife
+84570	Shaved Ice
+84570	Tea Rooms
+84673	Desserts
+84673	Food
+84673	Shaved Ice
+85526	Bars
+85526	Cocktail Bars
+85526	Italian
+85526	Nightlife
+85526	Pizza
+85526	Restaurants
+85995	Asian Fusion
+85995	Barbeque
+85995	Korean
+85995	Restaurants
+86186	Coffee & Tea
+86186	Food
+86187	Breakfast & Brunch
+86187	Burgers
+86187	Restaurants
+86852	Arts & Entertainment
+86852	Casinos
+86852	Event Planning & Services
+86852	Hotels
+86852	Hotels & Travel
+86852	Restaurants
+87015	American (New)
+87015	Asian Fusion
+87015	Japanese
+87015	Restaurants
+87015	Sushi Bars
+87015	Tapas/Small Plates
+87120	Burgers
+87120	Food
+87120	Food Stands
+87120	Food Trucks
+87120	Restaurants
+87160	Chinese
+87160	Restaurants
+87193	American (Traditional)
+87193	Bars
+87193	Breweries
+87193	Food
+87193	Nightlife
+87193	Pubs
+87193	Restaurants
+87193	Sushi Bars
+87245	American (New)
+87245	Bars
+87245	Nightlife
+87245	Restaurants
+87245	Seafood
+87247	Bakeries
+87247	Chocolatiers & Shops
+87247	Desserts
+87247	Food
+87247	Restaurants
+87247	Specialty Food
+87265	American (New)
+87265	American (Traditional)
+87265	Breakfast & Brunch
+87265	Diners
+87265	Restaurants
+87331	American (New)
+87331	Restaurants
+87331	Salad
+87331	Sandwiches
+87421	Bars
+87421	Beer
+87421	Beer Bar
+87421	Beer Garden
+87421	Food
+87421	German
+87421	Nightlife
+87421	Restaurants
+87421	Sports Bars
+87421	Wine & Spirits
+87772	Arts & Entertainment
+87772	Cinema
+88318	Donuts
+88318	Food
+88435	Bubble Tea
+88435	Coffee & Tea
+88435	Desserts
+88435	Food
+88435	Juice Bars & Smoothies
+88436	Korean
+88436	Restaurants
+88885	Bakeries
+88885	Coffee & Tea
+88885	Coffee Roasteries
+88885	Food
+88885	Restaurants
+88885	Tea Rooms
+88885	Vegan
+88885	Vegetarian
+89040	Barbeque
+89040	Chinese
+89040	Do-It-Yourself Food
+89040	Fondue
+89040	Food
+89040	Hot Pot
+89040	Mongolian
+89040	Restaurants
+89166	Fashion
+89166	Men's Clothing
+89166	Shopping
+89166	Used
+89166	Vintage & Consignment
+89166	Women's Clothing
+89347	Restaurants
+89347	Sushi Bars
+89479	Arts & Entertainment
+89479	Farms
+89479	Food
+89479	Fruits & Veggies
+89479	Pick Your Own Farms
+89479	Specialty Food
+89592	Hawaiian
+89592	Restaurants
+89642	American (Traditional)
+89642	Breakfast & Brunch
+89642	Food
+89642	Grocery
+89642	Restaurants
+89642	Steakhouses
+89869	American (New)
+89869	Breakfast & Brunch
+89869	Restaurants
+90203	American (Traditional)
+90203	Burgers
+90203	Restaurants
+90203	Seafood
+90203	Steakhouses
+90263	Coffee & Tea
+90263	Desserts
+90263	Food
+90263	Ice Cream & Frozen Yogurt
+90263	Juice Bars & Smoothies
+90387	Barbeque
+90387	Butcher
+90387	Caterers
+90387	Event Planning & Services
+90387	Food
+90387	Meat Shops
+90387	Restaurants
+90387	Specialty Food
+90498	Restaurants
+90498	Vietnamese
+90572	Italian
+90572	Restaurants
+90572	Seafood
+90659	Asian Fusion
+90659	Chinese
+90659	Fast Food
+90659	Gluten-Free
+90659	Restaurants
+90879	Gluten-Free
+90879	Pizza
+90879	Restaurants
+90879	Salad
+90949	Bars
+90949	Delis
+90949	Italian
+90949	Nightlife
+90949	Restaurants
+91334	American (New)
+91334	American (Traditional)
+91334	Bars
+91334	Italian
+91334	Karaoke
+91334	Lounges
+91334	Nightlife
+91334	Restaurants
+91334	Steakhouses
+91351	Hawaiian
+91351	Restaurants
+91665	Japanese
+91665	Restaurants
+91665	Sushi Bars
+91806	Desserts
+91806	Food
+91806	Japanese
+91806	Restaurants
+91806	Tapas Bars
+91818	Japanese
+91818	Noodles
+91818	Ramen
+91818	Restaurants
+91894	Automotive
+91894	Departments of Motor Vehicles
+91894	Local Services
+91894	Public Services & Government
+92205	Asian Fusion
+92205	Hawaiian
+92205	Japanese
+92205	Restaurants
+92205	Salad
+92263	Caterers
+92263	Event Planning & Services
+92263	Italian
+92263	Pizza
+92263	Restaurants
+92266	Bars
+92266	Desserts
+92266	Food
+92266	French
+92266	Nightlife
+92266	Restaurants
+92266	Wine Bars
+92340	American (Traditional)
+92340	Breakfast & Brunch
+92340	Hawaiian
+92340	Restaurants
+92381	Barbeque
+92381	Korean
+92381	Restaurants
+92543	Bakeries
+92543	Cupcakes
+92543	Custom Cakes
+92543	Food
+92610	Active Life
+92610	Mini Golf
+92790	Chinese
+92790	Noodles
+92790	Restaurants
+92790	Seafood
+93522	African
+93522	American (New)
+93522	American (Traditional)
+93522	Bars
+93522	Breakfast & Brunch
+93522	Burgers
+93522	Nightlife
+93522	Pubs
+93522	Restaurants
+93638	American (New)
+93638	Bars
+93638	Beer
+93638	Beer Bar
+93638	Breakfast & Brunch
+93638	Burgers
+93638	Cocktail Bars
+93638	Comfort Food
+93638	Food
+93638	Nightlife
+93638	Restaurants
+93638	Tapas/Small Plates
+93638	Wine & Spirits
+93638	Wine Bars
+93774	Greek
+93774	Mediterranean
+93774	Restaurants
+93774	Vegetarian
+93775	Shopping
+93775	Shopping Centers
+93995	Indian
+93995	Restaurants
+94113	Bubble Tea
+94113	Chinese
+94113	Food
+94113	Restaurants
+94116	American (New)
+94116	Arts & Entertainment
+94116	Bars
+94116	Coffee & Tea
+94116	Food
+94116	Music Venues
+94116	Nightlife
+94116	Pubs
+94116	Restaurants
+94116	Sandwiches
+94260	Conveyor Belt Sushi
+94260	Japanese
+94260	Restaurants
+94260	Seafood
+94260	Sushi Bars
+94273	Restaurants
+94273	Thai
+94416	Arts & Entertainment
+94416	Bars
+94416	Cocktail Bars
+94416	Event Planning & Services
+94416	Lounges
+94416	Music Venues
+94416	Nightlife
+94416	Tiki Bars
+94416	Venues & Event Spaces
+94848	American (New)
+94848	Restaurants
+94950	Japanese
+94950	Restaurants
+95003	Arts & Entertainment
+95003	Event Planning & Services
+95003	Nightlife
+95003	Performing Arts
+95003	Venues & Event Spaces
+95091	Burgers
+95091	Restaurants
+95153	Bagels
+95153	Breakfast & Brunch
+95153	Cafes
+95153	Coffee & Tea
+95153	Food
+95153	Food Trucks
+95153	Juice Bars & Smoothies
+95153	Restaurants
+95278	American (New)
+95278	American (Traditional)
+95278	Bars
+95278	Nightlife
+95278	Restaurants
+95278	Sports Bars
+95301	Caterers
+95301	Event Planning & Services
+95301	Food
+95301	Italian
+95301	Pizza
+95301	Restaurants
+95491	Bakeries
+95491	Breakfast & Brunch
+95491	Cafes
+95491	Coffee & Tea
+95491	Desserts
+95491	Food
+95491	Gluten-Free
+95491	Organic Stores
+95491	Restaurants
+95491	Salad
+95491	Sandwiches
+95617	Asian Fusion
+95617	Chinese
+95617	Do-It-Yourself Food
+95617	Food
+95617	Hot Pot
+95617	Japanese
+95617	Restaurants
+95637	Asian Fusion
+95637	Breakfast & Brunch
+95637	Filipino
+95637	Restaurants
+95637	Seafood
+95662	Restaurants
+95662	Thai
+95828	Coffee & Tea
+95828	Desserts
+95828	Food
+95828	French
+95828	Restaurants
+95842	American (New)
+95842	Restaurants
+95842	Sushi Bars
+96247	Bars
+96247	Lounges
+96247	Nightlife
+96324	Barbeque
+96324	Restaurants
+96324	Soup
+96324	Vietnamese
+96524	Korean
+96524	Restaurants
+96699	American (New)
+96699	Bakeries
+96699	Breakfast & Brunch
+96699	Cupcakes
+96699	Desserts
+96699	Food
+96699	Restaurants
+96767	Mexican
+96767	Restaurants
+96767	Tacos
+96852	Asian Fusion
+96852	Barbeque
+96852	Japanese
+96852	Korean
+96852	Restaurants
+96852	Tapas/Small Plates
+96941	Bars
+96941	Mexican
+96941	Nightlife
+96941	Restaurants
+96941	Salad
+96941	Soup
+97063	American (New)
+97063	Bars
+97063	Nightlife
+97063	Restaurants
+97063	Seafood
+97063	Steakhouses
+97063	Wine Bars
+97101	Arts & Entertainment
+97101	Bars
+97101	Dance Clubs
+97101	Music Venues
+97101	Nightlife
+97403	Cafes
+97403	Coffee & Tea
+97403	Desserts
+97403	Food
+97403	Restaurants
+97403	Shaved Ice
+97473	American (New)
+97473	American (Traditional)
+97473	Bars
+97473	Cocktail Bars
+97473	Nightlife
+97473	Pizza
+97473	Restaurants
+97473	Salad
+97744	American (Traditional)
+97744	Breakfast & Brunch
+97744	Burgers
+97744	Pizza
+97744	Restaurants
+97744	Sandwiches
+97935	Italian
+97935	Restaurants
+97935	Seafood
+97965	Bars
+97965	Breakfast & Brunch
+97965	Diners
+97965	Italian
+97965	Nightlife
+97965	Restaurants
+98076	Buffets
+98076	Restaurants
+98076	Salad
+98076	Soup
+98076	Vegetarian
+98281	Restaurants
+98281	Spanish
+98281	Tapas Bars
+98340	Arts & Entertainment
+98340	Casinos
+98340	Event Planning & Services
+98340	Hotels
+98340	Hotels & Travel
+98340	Restaurants
+99212	Cafes
+99212	Restaurants
+99335	Arts & Entertainment
+99335	Performing Arts
+99336	African
+99336	American (New)
+99336	American (Traditional)
+99336	Arts & Entertainment
+99336	Bars
+99336	Burgers
+99336	Music Venues
+99336	Nightlife
+99336	Restaurants
+99336	Seafood
+99478	American (New)
+99478	Bars
+99478	Gastropubs
+99478	Nightlife
+99478	Restaurants
+99875	Arts & Entertainment
+99875	Cinema
+99888	Butcher
+99888	Delis
+99888	Food
+99888	Grocery
+99888	Restaurants
+99927	Burgers
+99927	Fast Food
+99927	Restaurants
+99933	Cafes
+99933	Coffee & Tea
+99933	Food
+99933	Restaurants
+100015	Food
+100015	Ice Cream & Frozen Yogurt
+100209	Japanese
+100209	Restaurants
+100209	Sushi Bars
+100264	Candy Stores
+100264	Chocolatiers & Shops
+100264	Desserts
+100264	Food
+100264	Specialty Food
+100269	Arts & Entertainment
+100269	Performing Arts
+100391	Barbeque
+100391	Japanese
+100391	Restaurants
+100413	American (Traditional)
+100413	Breakfast & Brunch
+100413	Restaurants
+100444	American (New)
+100444	American (Traditional)
+100444	Bars
+100444	Caribbean
+100444	Cocktail Bars
+100444	New Mexican Cuisine
+100444	Nightlife
+100444	Restaurants
+100636	American (New)
+100636	American (Traditional)
+100636	Delis
+100636	Restaurants
+100636	Sandwiches
+100679	Burgers
+100679	Restaurants
+101146	Barbeque
+101146	Cajun/Creole
+101146	Food
+101146	Restaurants
+101146	Smokehouse
+101146	Southern
+101438	Donuts
+101438	Food
+101438	Restaurants
+101438	Vegan
+101645	Bars
+101645	Nightlife
+101645	Restaurants
+101645	Thai
+101645	Wine Bars
+101801	Bubble Tea
+101801	Coffee & Tea
+101801	Desserts
+101801	Food
+101801	Juice Bars & Smoothies
+101801	Restaurants
+101801	Taiwanese
+101903	Restaurants
+101903	Thai
+101903	Vegan
+101953	Japanese
+101953	Ramen
+101953	Restaurants
+101953	Soup
+101997	Restaurants
+101997	Steakhouses
+102087	Chinese
+102087	Noodles
+102087	Restaurants
+102209	Coffee & Tea
+102209	Desserts
+102209	Food
+102209	Shaved Ice
+102271	American (New)
+102271	American (Traditional)
+102271	Desserts
+102271	Food
+102271	Restaurants
+102271	Seafood
+102615	Burgers
+102615	Restaurants
+102684	Japanese
+102684	Restaurants
+102684	Sushi Bars
+103055	Asian Fusion
+103055	Bars
+103055	Cocktail Bars
+103055	Japanese
+103055	Nightlife
+103055	Ramen
+103055	Restaurants
+103055	Sushi Bars
+103267	Chinese
+103267	Restaurants
+103396	Italian
+103396	Pizza
+103396	Restaurants
+103466	Restaurants
+103466	Sandwiches
+103466	Vietnamese
+103515	Bars
+103515	Breakfast & Brunch
+103515	Nightlife
+103515	Restaurants
+103515	Seafood
+103515	Steakhouses
+103515	Wine Bars
+103568	Asian Fusion
+103568	Barbeque
+103568	Bars
+103568	Chicken Wings
+103568	Korean
+103568	Nightlife
+103568	Pizza
+103568	Restaurants
+103829	Arts & Entertainment
+103829	Event Planning & Services
+103829	Magicians
+103829	Performing Arts
+104108	Japanese
+104108	Ramen
+104108	Restaurants
+104108	Sushi Bars
+104232	Pawn Shops
+104232	Shopping
+104464	Buffets
+104464	Japanese
+104464	Restaurants
+104464	Sushi Bars
+104641	Cantonese
+104641	Chinese
+104641	Dim Sum
+104641	Restaurants
+104641	Seafood
+104670	American (Traditional)
+104670	Buffets
+104670	Restaurants
+104706	American (New)
+104706	Desserts
+104706	Food
+104706	Restaurants
+104706	Salad
+104706	Sandwiches
+104706	Soup
+104894	Arts & Entertainment
+104894	Music Venues
+104894	Nightlife
+104923	Lebanese
+104923	Mediterranean
+104923	Middle Eastern
+104923	Moroccan
+104923	Restaurants
+105132	American (New)
+105132	Breweries
+105132	Food
+105132	Pizza
+105132	Restaurants
+105263	American (New)
+105263	American (Traditional)
+105263	Barbeque
+105263	Caterers
+105263	Event Planning & Services
+105263	Restaurants
+105263	Soul Food
+105263	Southern
+105347	Chinese
+105347	Restaurants
+105347	Vietnamese
+105981	Asian Fusion
+105981	Desserts
+105981	Fondue
+105981	Food
+105981	Hot Pot
+105981	Japanese
+105981	Restaurants
+105981	Specialty Food
+105992	American (Traditional)
+105992	Breakfast & Brunch
+105992	Diners
+105992	Food
+105992	Restaurants
+105992	Sandwiches
+106238	American (New)
+106238	Bars
+106238	Dance Clubs
+106238	Lounges
+106238	Nightlife
+106238	Restaurants
+106324	Arts & Entertainment
+106324	Cinema
+106668	American (New)
+106668	Breakfast & Brunch
+106668	Food
+106668	Juice Bars & Smoothies
+106668	Restaurants
+106686	Bars
+106686	Caribbean
+106686	Laotian
+106686	Latin American
+106686	Nightlife
+106686	Restaurants
+106686	Seafood
+106698	Department Stores
+106698	Discount Store
+106698	Drugstores
+106698	Electronics
+106698	Fashion
+106698	Food
+106698	Grocery
+106698	Mobile Phones
+106698	Shopping
+106723	American (Traditional)
+106723	Restaurants
+107106	Asian Fusion
+107106	Japanese
+107106	Mexican
+107106	Restaurants
+107139	Bars
+107139	Italian
+107139	Nightlife
+107139	Restaurants
+107139	Steakhouses
+107139	Wine Bars
+107352	Event Planning & Services
+107352	Hotels
+107352	Hotels & Travel
+107352	Venues & Event Spaces
+107503	Bars
+107503	Italian
+107503	Nightlife
+107503	Restaurants
+107503	Salad
+107503	Wine Bars
+107589	Bakeries
+107589	Chocolatiers & Shops
+107589	Cupcakes
+107589	Custom Cakes
+107589	Desserts
+107589	Food
+107589	Specialty Food
+107594	American (New)
+107594	Restaurants
+107594	Seafood
+107594	Steakhouses
+107702	Beer Gardens
+107702	Burgers
+107702	Desserts
+107702	Food
+107702	Hot Dogs
+107702	Nightlife
+107702	Restaurants
+107963	American (Traditional)
+107963	Bars
+107963	Beer
+107963	Food
+107963	Italian
+107963	Nightlife
+107963	Pizza
+107963	Restaurants
+107963	Wine & Spirits
+108256	American (New)
+108256	Asian Fusion
+108256	Chinese
+108256	Restaurants
+108537	Asian Fusion
+108537	Breakfast & Brunch
+108537	Japanese
+108537	Restaurants
+108537	Sushi Bars
+108604	Asian Fusion
+108604	Coffee & Tea
+108604	Food
+108604	Restaurants
+108604	Seafood
+108604	Taiwanese
+108821	American (New)
+108821	Bars
+108821	Cocktail Bars
+108821	Lounges
+108821	Nightlife
+108821	Restaurants
+108821	Tapas Bars
+108821	Tapas/Small Plates
+108821	Whiskey Bars
+108821	Wine Bars
+109187	American (New)
+109187	Restaurants
+109187	Sushi Bars
+109245	American (New)
+109245	Bakeries
+109245	Coffee & Tea
+109245	Food
+109245	Restaurants
+109245	Sandwiches
+109380	Bars
+109380	Beer
+109380	Desserts
+109380	Food
+109380	Indian
+109380	Nightlife
+109380	Restaurants
+109380	Vegan
+109380	Vegetarian
+109380	Wine & Spirits
+109441	Bars
+109441	Hawaiian
+109441	Nightlife
+109441	Restaurants
+109441	Sports Bars
+109441	Sushi Bars
+109469	Baby Gear & Furniture
+109469	Furniture Stores
+109469	Home & Garden
+109469	Home Decor
+109469	Kitchen & Bath
+109469	Restaurants
+109469	Scandinavian
+109469	Shopping
+109501	Cantonese
+109501	Chinese
+109501	Restaurants
+109501	Seafood
+109637	Active Life
+109637	Arts & Entertainment
+109637	Bars
+109637	Irish
+109637	Music Venues
+109637	Nightlife
+109637	Pubs
+109637	Restaurants
+110109	Active Life
+110109	Amusement Parks
+110109	Kids Activities
+110109	Local Flavor
+110109	Parks
+110109	Swimming Pools
+110109	Water Parks
+110132	American (New)
+110132	Cafes
+110132	Restaurants
+110151	Cajun/Creole
+110151	Restaurants
+110265	Food
+110265	Hawaiian
+110265	Poke
+110265	Restaurants
+110265	Salad
+110616	Restaurants
+110616	Thai
+110774	American (New)
+110774	American (Traditional)
+110774	Bars
+110774	Beer
+110774	Burgers
+110774	Food
+110774	Gastropubs
+110774	Nightlife
+110774	Restaurants
+110774	Tapas/Small Plates
+110774	Wine & Spirits
+110825	Restaurants
+110825	Spanish
+110825	Tapas Bars
+110825	Tapas/Small Plates
+110991	Restaurants
+110991	Seafood
+111251	Shopping
+111251	Shopping Centers
+111555	American (Traditional)
+111555	Burgers
+111555	Restaurants
+111835	Greek
+111835	Mediterranean
+111835	Restaurants
+111876	Arts & Entertainment
+111876	Dance Clubs
+111876	Music Venues
+111876	Nightlife
+112320	Beer
+112320	Food
+112320	Grocery
+112320	Health Markets
+112320	Organic Stores
+112320	Specialty Food
+112320	Wine & Spirits
+112343	Bars
+112343	Indian
+112343	Kosher
+112343	Nightlife
+112343	Pakistani
+112343	Restaurants
+112343	Salad
+112343	Vegetarian
+112485	Burgers
+112485	Fast Food
+112485	Restaurants
+112650	Bakeries
+112650	Food
+112650	Grocery
+112668	American (New)
+112668	American (Traditional)
+112668	Bars
+112668	Burgers
+112668	Nightlife
+112668	Restaurants
+112748	Latin American
+112748	Mexican
+112748	Restaurants
+112748	Spanish
+112769	Japanese
+112769	Noodles
+112769	Ramen
+112769	Restaurants
+112783	Japanese
+112783	Restaurants
+112807	Art Galleries
+112807	Arts & Entertainment
+112807	Hotels & Travel
+112807	Local Flavor
+112807	Museums
+112807	Shopping
+112807	Tours
+112883	Beer
+112883	Food
+112883	Grocery
+112883	Wine & Spirits
+112999	American (New)
+112999	Restaurants
+113361	American (Traditional)
+113361	Arts & Entertainment
+113361	Barbeque
+113361	Bars
+113361	Breweries
+113361	Casinos
+113361	Food
+113361	Karaoke
+113361	Nightlife
+113361	Pubs
+113361	Restaurants
+113435	Food
+113435	Ice Cream & Frozen Yogurt
+113590	American (Traditional)
+113590	Diners
+113590	Restaurants
+113773	American (New)
+113773	American (Traditional)
+113773	Bagels
+113773	Breakfast & Brunch
+113773	Food
+113773	Restaurants
+113773	Sandwiches
+113993	Greek
+113993	Mediterranean
+113993	Restaurants
+114049	American (New)
+114049	American (Traditional)
+114049	Breakfast & Brunch
+114049	Burgers
+114049	Cafes
+114049	Food
+114049	Juice Bars & Smoothies
+114049	Pizza
+114049	Restaurants
+114049	Sandwiches
+114049	Vegan
+114049	Vegetarian
+114523	Active Life
+114523	Hiking
+114523	Parks
+114595	Active Life
+114595	Amusement Parks
+114595	Arts & Entertainment
+114595	Food
+114595	Restaurants
+114595	Shopping
+114595	Shopping Centers
+114652	Beer
+114652	Food
+114652	Restaurants
+114652	Spanish
+114652	Tapas Bars
+114652	Tapas/Small Plates
+114652	Wine & Spirits
+114766	Bakeries
+114766	Breakfast & Brunch
+114766	Cafes
+114766	Coffee & Tea
+114766	Comfort Food
+114766	Desserts
+114766	Food
+114766	Internet Cafes
+114766	Juice Bars & Smoothies
+114766	Local Flavor
+114766	Restaurants
+114849	Asian Fusion
+114849	French
+114849	Japanese
+114849	Restaurants
+114849	Seafood
+114849	Tapas Bars
+114915	Greek
+114915	Mediterranean
+114915	Middle Eastern
+114915	Persian/Iranian
+114915	Restaurants
+114949	Breakfast & Brunch
+114949	Buffets
+114949	Restaurants
+114953	Bars
+114953	Nightlife
+114953	Sports Bars
+115065	American (New)
+115065	Breakfast & Brunch
+115065	Food
+115065	Juice Bars & Smoothies
+115065	Restaurants
+115065	Sandwiches
+115199	Restaurants
+115199	Soup
+115199	Vietnamese
+115305	Bakeries
+115305	Desserts
+115305	Food
+115305	Restaurants
+115305	Sandwiches
+115352	Breakfast & Brunch
+115352	Cafes
+115352	Coffee & Tea
+115352	Food
+115352	Latin American
+115352	Restaurants
+115438	Arts & Entertainment
+115438	Cinema
+115438	Drive-In Theater
+115465	Breakfast & Brunch
+115465	Mexican
+115465	Restaurants
+115465	Tapas/Small Plates
+115499	Barbeque
+115499	Breakfast & Brunch
+115499	Mexican
+115499	New Mexican Cuisine
+115499	Restaurants
+115509	Restaurants
+115509	Seafood
+115542	Bakeries
+115542	Breakfast & Brunch
+115542	Delis
+115542	Food
+115542	Restaurants
+115835	American (New)
+115835	American (Traditional)
+115835	Bars
+115835	Breakfast & Brunch
+115835	Nightlife
+115835	Restaurants
+115939	Bakeries
+115939	Custom Cakes
+115939	Food
+115939	Patisserie/Cake Shop
+115939	Restaurants
+116209	Japanese
+116209	Ramen
+116209	Restaurants
+116209	Sushi Bars
+116209	Vegan
+116209	Vegetarian
+116238	American (Traditional)
+116238	Burgers
+116238	Restaurants
+116245	Arts & Entertainment
+116245	Casinos
+116245	Event Planning & Services
+116245	Hotels
+116245	Hotels & Travel
+116248	American (New)
+116248	American (Traditional)
+116248	Mexican
+116248	New Mexican Cuisine
+116248	Restaurants
+116248	Southern
+116248	Tex-Mex
+116341	American (New)
+116341	American (Traditional)
+116341	Bars
+116341	Cocktail Bars
+116341	Nightlife
+116341	Restaurants
+116500	Restaurants
+116500	Sushi Bars
+116552	Cafes
+116552	Restaurants
+116552	Vegan
+116552	Vegetarian
+116839	Gluten-Free
+116839	Pizza
+116839	Restaurants
+116839	Vegan
+117062	Cajun/Creole
+117062	Restaurants
+117062	Seafood
+117062	Southern
+117062	Steakhouses
+117258	Barbeque
+117258	Restaurants
+117459	American (New)
+117459	Breakfast & Brunch
+117459	Restaurants
+117660	Asian Fusion
+117660	Japanese
+117660	Restaurants
+117660	Sushi Bars
+117968	Bars
+117968	Gastropubs
+117968	Irish
+117968	Nightlife
+117968	Pubs
+117968	Restaurants
+118335	Beer
+118335	Florists
+118335	Flowers & Gifts
+118335	Food
+118335	Grocery
+118335	Shopping
+118335	Specialty Food
+118335	Wine & Spirits
+118361	Breakfast & Brunch
+118361	Cafes
+118361	Comfort Food
+118361	Food
+118361	Restaurants
+118384	Bars
+118384	Mexican
+118384	Nightlife
+118384	Restaurants
+118857	Computers
+118857	Electronics
+118857	Mobile Phones
+118857	Shopping
+118876	Bars
+118876	Fast Food
+118876	Mediterranean
+118876	Nightlife
+118876	Restaurants
+118876	Salad
+118876	Sandwiches
+119166	Buffets
+119166	Desserts
+119166	Food
+119166	Restaurants
+119166	Seafood
+119219	Italian
+119219	Pizza
+119219	Restaurants
+119219	Salad
+119380	Donuts
+119380	Food
+119625	American (New)
+119625	American (Traditional)
+119625	Breakfast & Brunch
+119625	Food
+119625	Juice Bars & Smoothies
+119625	Restaurants
+119625	Sandwiches
+119775	Bars
+119775	Cafes
+119775	Dance Clubs
+119775	Lounges
+119775	Nightlife
+119775	Restaurants
+119792	Burgers
+119792	Restaurants
+119814	Hot Dogs
+119814	Restaurants
+119890	Arts & Entertainment
+119890	Beauty & Spas
+119890	Casinos
+119890	Day Spas
+119890	Event Planning & Services
+119890	Health Retreats
+119890	Hotels
+119890	Hotels & Travel
+120026	Mexican
+120026	Restaurants
+120026	Seafood
+120041	Bars
+120041	Lounges
+120041	Nightlife
+120171	American (New)
+120171	Bagels
+120171	Breakfast & Brunch
+120171	Food
+120171	Restaurants
+120171	Salad
+120171	Sandwiches
+120171	Soup
+120199	Cafeteria
+120199	Restaurants
+120253	Mexican
+120253	Restaurants
+120277	Bars
+120277	Italian
+120277	Nightlife
+120277	Pizza
+120277	Restaurants
+120277	Wine Bars
+120569	American (New)
+120569	Italian
+120569	Restaurants
+120851	American (Traditional)
+120851	Restaurants
+120851	Vietnamese
+120946	Chicken Shop
+120946	Chicken Wings
+120946	Fast Food
+120946	Restaurants
+120993	Beer
+120993	Flowers & Gifts
+120993	Food
+120993	Grocery
+120993	Head Shops
+120993	Shopping
+120993	Tobacco Shops
+120993	Wine & Spirits
+121181	Breakfast & Brunch
+121181	Restaurants
+121231	Bakeries
+121231	Coffee & Tea
+121231	Food
+121231	Juice Bars & Smoothies
+121240	Italian
+121240	Restaurants
+121240	Seafood
+121631	American (New)
+121631	American (Traditional)
+121631	Burgers
+121631	Food
+121631	Health Markets
+121631	Juice Bars & Smoothies
+121631	Restaurants
+121631	Salad
+121631	Specialty Food
+121802	American (New)
+121802	Asian Fusion
+121802	Bars
+121802	Beer
+121802	Burgers
+121802	Food
+121802	Nightlife
+121802	Restaurants
+121802	Wine & Spirits
+121814	American (Traditional)
+121814	Restaurants
+121819	Bubble Tea
+121819	Coffee & Tea
+121819	Desserts
+121819	Food
+121819	Food Delivery Services
+121819	Ice Cream & Frozen Yogurt
+121819	Juice Bars & Smoothies
+121878	Asian Fusion
+121878	Restaurants
+122008	Cafes
+122008	German
+122008	Restaurants
+122290	American (New)
+122290	Asian Fusion
+122290	Bars
+122290	Nightlife
+122290	Restaurants
+122336	Asian Fusion
+122336	Buffets
+122336	Chinese
+122336	Restaurants
+122351	Mexican
+122351	Restaurants
+122467	Appliances
+122467	Automotive
+122467	Car Stereo Installation
+122467	Computers
+122467	Home & Garden
+122467	Mobile Phones
+122467	Shopping
+122718	Bars
+122718	Dive Bars
+122718	Karaoke
+122718	Nightlife
+122773	Buffets
+122773	Restaurants
+122901	Discount Store
+122901	Flea Markets
+122901	Shopping
+122901	Shopping Centers
+122901	Thrift Stores
+123066	Asian Fusion
+123066	Food
+123066	Health & Medical
+123066	Japanese
+123066	Noodles
+123066	Ramen
+123066	Restaurants
+123066	Shaved Ice
+123066	Specialty Food
+123066	Sushi Bars
+123066	Vegetarian
+123261	Bars
+123261	Lounges
+123261	Nightlife
+123376	Ethnic Food
+123376	Food
+123376	Grocery
+123376	Imported Food
+123376	International Grocery
+123376	Seafood Markets
+123376	Specialty Food
+123437	Greek
+123437	Lebanese
+123437	Mediterranean
+123437	Middle Eastern
+123437	Restaurants
+123441	Fast Food
+123441	Filipino
+123441	Restaurants
+123563	Buffets
+123563	Restaurants
+123563	Salad
+123563	Soup
+123563	Vegetarian
+123682	Asian Fusion
+123682	Restaurants
+123682	Seafood
+123682	Sushi Bars
+123952	Shopping
+123952	Shopping Centers
+124073	Restaurants
+124073	Thai
+124330	Bars
+124330	Mexican
+124330	Nightlife
+124330	Restaurants
+124345	Fondue
+124345	Restaurants
+124753	Asian Fusion
+124753	Bars
+124753	Beer Bar
+124753	Cocktail Bars
+124753	Gastropubs
+124753	Nightlife
+124753	Restaurants
+124826	Coffee & Tea
+124826	Coffee Roasteries
+124826	Food
+124826	Internet Cafes
+125103	Mexican
+125103	Restaurants
+125116	Greek
+125116	Mediterranean
+125116	Restaurants
+125116	Vegetarian
+125132	Chinese
+125132	Dim Sum
+125132	Restaurants
+125132	Seafood
+125386	Gluten-Free
+125386	Mexican
+125386	Restaurants
+125386	Seafood
+125492	Bars
+125492	Beer
+125492	Food
+125492	Italian
+125492	Nightlife
+125492	Pizza
+125492	Restaurants
+125492	Vegan
+125492	Wine & Spirits
+125519	Bars
+125519	Burgers
+125519	Nightlife
+125519	Pubs
+125519	Restaurants
+125519	Sandwiches
+125660	American (New)
+125660	American (Traditional)
+125660	Arts & Entertainment
+125660	Breakfast & Brunch
+125660	Burgers
+125660	Music Venues
+125660	Nightlife
+125660	Restaurants
+125755	Pizza
+125755	Restaurants
+125819	Beer
+125819	Florists
+125819	Flowers & Gifts
+125819	Food
+125819	Grocery
+125819	Shopping
+125819	Specialty Food
+125819	Wine & Spirits
+125840	American (Traditional)
+125840	Chicken Shop
+125840	Chicken Wings
+125840	Fast Food
+125840	Restaurants
+126114	Italian
+126114	Pizza
+126114	Restaurants
+126472	Bars
+126472	Food
+126472	Italian
+126472	Nightlife
+126472	Restaurants
+126472	Wine Bars
+126571	American (Traditional)
+126571	Arcades
+126571	Arts & Entertainment
+126571	Bars
+126571	Eatertainment
+126571	Nightlife
+126571	Restaurants
+126571	Sports Bars
+126690	Bars
+126690	Italian
+126690	Nightlife
+126690	Pizza
+126690	Restaurants
+126690	Sports Bars
+126697	Caterers
+126697	Delis
+126697	Desserts
+126697	Event Planning & Services
+126697	Food
+126697	Restaurants
+126697	Salad
+126697	Sandwiches
+126848	Delis
+126848	Italian
+126848	Pizza
+126848	Restaurants
+127262	Shopping
+127262	Shopping Centers
+127295	Food
+127295	Italian
+127295	Pasta Shops
+127295	Restaurants
+127295	Sandwiches
+127295	Seafood
+127295	Specialty Food
+127295	Vegan
+127338	Arts & Entertainment
+127338	Botanical Gardens
+127338	Chocolatiers & Shops
+127338	Desserts
+127338	Education
+127338	Flowers & Gifts
+127338	Food
+127338	Gift Shops
+127338	Local Flavor
+127338	Shopping
+127338	Specialty Food
+127338	Tasting Classes
+127524	Greek
+127524	Mediterranean
+127524	Middle Eastern
+127524	Restaurants
+127647	Buffets
+127647	Restaurants
+127837	Active Life
+127837	American (New)
+127837	Bars
+127837	Golf
+127837	Nightlife
+127837	Restaurants
+127912	American (Traditional)
+127912	Chicken Shop
+127912	Comfort Food
+127912	Fast Food
+127912	Restaurants
+127986	Arts & Entertainment
+127986	Bars
+127986	Champagne Bars
+127986	Cocktail Bars
+127986	Lounges
+127986	Music Venues
+127986	Nightlife
+128034	Dance Clubs
+128034	Nightlife
+128136	Asian Fusion
+128136	Korean
+128136	Mexican
+128136	Restaurants
+128297	American (Traditional)
+128297	Breakfast & Brunch
+128297	Food
+128297	Juice Bars & Smoothies
+128297	Restaurants
+128297	Sandwiches
+128297	Waffles
+128340	Arts & Entertainment
+128340	Cinema
+128381	American (Traditional)
+128381	Chicken Shop
+128381	Chicken Wings
+128381	Fast Food
+128381	Restaurants
+128417	Bubble Tea
+128417	Cafes
+128417	Desserts
+128417	Food
+128417	Restaurants
+128417	Tea Rooms
+128504	Bars
+128504	Italian
+128504	Nightlife
+128504	Restaurants
+128504	Salad
+128504	Wine Bars
+128702	Chinese
+128702	Noodles
+128702	Restaurants
+128702	Szechuan
+128841	American (Traditional)
+128841	Breakfast & Brunch
+128841	Burgers
+128841	Restaurants
+128968	Japanese
+128968	Restaurants
+128968	Seafood
+128968	Sushi Bars
+129058	Active Life
+129058	Hiking
+129058	Parks
+129244	American (New)
+129244	American (Traditional)
+129244	Bars
+129244	Burgers
+129244	Nightlife
+129244	Restaurants
+129331	Asian Fusion
+129331	Chinese
+129331	Japanese
+129331	Restaurants
+129331	Steakhouses
+129388	Italian
+129388	Pizza
+129388	Restaurants
+129414	Mexican
+129414	Restaurants
+129452	Cafes
+129452	Japanese
+129452	Noodles
+129452	Restaurants
+129452	Soup
+129494	Arts & Entertainment
+129494	Casinos
+129494	Event Planning & Services
+129494	Hotels
+129494	Hotels & Travel
+129494	Resorts
+129500	American (New)
+129500	American (Traditional)
+129500	Bars
+129500	Breakfast & Brunch
+129500	Cocktail Bars
+129500	Coffee & Tea
+129500	Desserts
+129500	Food
+129500	Gastropubs
+129500	Nightlife
+129500	Restaurants
+129500	Tapas/Small Plates
+129616	American (New)
+129616	Cheesesteaks
+129616	Restaurants
+129616	Steakhouses
+129846	Japanese
+129846	Restaurants
+129846	Sushi Bars
+129977	Buffets
+129977	Japanese
+129977	Restaurants
+129977	Sushi Bars
+130032	Cafes
+130032	Coffee & Tea
+130032	Food
+130032	Restaurants
+130032	Salad
+130032	Sandwiches
+130032	Vegan
+130032	Vegetarian
+130212	Beer
+130212	Brazilian
+130212	Buffets
+130212	Desserts
+130212	Diners
+130212	Food
+130212	Portuguese
+130212	Restaurants
+130212	Seafood
+130212	Steakhouses
+130212	Wine & Spirits
+130238	American (New)
+130238	Desserts
+130238	Food
+130238	Gelato
+130238	Ice Cream & Frozen Yogurt
+130238	Restaurants
+130427	Event Planning & Services
+130427	Hotels & Travel
+130427	Travel Services
+130427	Venues & Event Spaces
+130647	American (New)
+130647	Gluten-Free
+130647	Restaurants
+130647	Vegetarian
+130859	Restaurants
+130859	Vietnamese
+130887	Breakfast & Brunch
+130887	Coffee & Tea
+130887	Diners
+130887	Food
+130887	Restaurants
+130898	American (New)
+130898	Cafes
+130898	Diners
+130898	Restaurants
+130935	American (Traditional)
+130935	Bars
+130935	Breakfast & Brunch
+130935	Nightlife
+130935	Pubs
+130935	Restaurants
+130937	Italian
+130937	Restaurants
+130937	Seafood
+130993	Arts & Entertainment
+130993	Cinema
+131265	Japanese
+131265	Restaurants
+131265	Sushi Bars
+131296	Restaurants
+131296	Steakhouses
+131441	Arts & Entertainment
+131441	Performing Arts
+131541	Bars
+131541	Nightlife
+131541	Restaurants
+131541	Tapas/Small Plates
+131541	Wine Bars
+131627	American (New)
+131627	Bars
+131627	Beer
+131627	Burgers
+131627	Comfort Food
+131627	Food
+131627	Nightlife
+131627	Pizza
+131627	Restaurants
+131627	Wine & Spirits
+131788	Desserts
+131788	Food
+131788	Ice Cream & Frozen Yogurt
+131878	Bars
+131878	Breakfast & Brunch
+131878	Dance Clubs
+131878	Italian
+131878	Lounges
+131878	Nightlife
+131878	Restaurants
+131880	Arts & Entertainment
+131880	Casinos
+131880	Fashion
+131880	Shopping
+131880	Shopping Centers
+132025	Italian
+132025	Restaurants
+132025	Seafood
+132082	Chicken Wings
+132082	Italian
+132082	Pizza
+132082	Restaurants
+132082	Sandwiches
+132475	Hot Pot
+132475	Japanese
+132475	Restaurants
+132475	Sushi Bars
+132513	Arts & Entertainment
+132513	Bars
+132513	Jazz & Blues
+132513	Lounges
+132513	Nightlife
+132619	American (New)
+132619	American (Traditional)
+132619	Breakfast & Brunch
+132619	Delis
+132619	Food
+132619	Food Delivery Services
+132619	Juice Bars & Smoothies
+132619	Restaurants
+133191	Active Life
+133191	Aquariums
+133337	Food
+133337	Grocery
+133337	Health Markets
+133337	Organic Stores
+133337	Specialty Food
+133447	Japanese
+133447	Restaurants
+133447	Sushi Bars
+133707	Bars
+133707	Cuban
+133707	Dance Clubs
+133707	Mexican
+133707	Nightlife
+133707	Restaurants
+133899	American (New)
+133899	French
+133899	Restaurants
+133899	Tapas/Small Plates
+133912	Bars
+133912	Lounges
+133912	Nightlife
+134047	American (Traditional)
+134047	Breakfast & Brunch
+134047	Cafes
+134047	Restaurants
+134144	Asian Fusion
+134144	Burgers
+134144	Japanese
+134144	Restaurants
+134144	Sushi Bars
+134150	Food
+134150	Ice Cream & Frozen Yogurt
+134226	American (Traditional)
+134226	Breweries
+134226	Food
+134226	Pizza
+134226	Restaurants
+134273	Chinese
+134273	Food
+134273	Restaurants
+134273	Specialty Food
+134273	Vegan
+134273	Vegetarian
+134513	American (New)
+134513	Breakfast & Brunch
+134513	Cafes
+134513	Coffee & Tea
+134513	Food
+134513	Restaurants
+134552	Japanese
+134552	Restaurants
+134552	Sushi Bars
+134580	Chinese
+134580	Restaurants
+134580	Thai
+134580	Vegetarian
+134706	Desserts
+134706	Food
+134706	Japanese
+134706	Restaurants
+134706	Seafood
+134923	Computers
+134923	Electronics
+134923	IT Services & Computer Repair
+134923	Local Services
+134923	Mobile Phones
+134923	Shopping
+134944	American (New)
+134944	Breakfast & Brunch
+134944	Diners
+134944	Restaurants
+135009	American (New)
+135009	Buffets
+135009	Restaurants
+135011	Dance Clubs
+135011	Nightlife
+135034	Breakfast & Brunch
+135034	Food
+135034	Hawaiian
+135034	Poke
+135034	Restaurants
+135034	Sandwiches
+135088	Arts & Entertainment
+135088	Casinos
+135088	Event Planning & Services
+135088	Hotels
+135088	Hotels & Travel
+135088	Resorts
+135099	Bars
+135099	British
+135099	Gastropubs
+135099	Nightlife
+135099	Pubs
+135099	Restaurants
+135255	Mexican
+135255	Restaurants
+135315	Chinese
+135315	Japanese
+135315	Restaurants
+135315	Thai
+135436	Fast Food
+135436	Mexican
+135436	Restaurants
+135560	American (New)
+135560	Burgers
+135560	Fast Food
+135560	Restaurants
+135658	Bakeries
+135658	Desserts
+135658	Food
+135658	Restaurants
+135658	Vegan
+135861	Arts & Entertainment
+135861	Botanical Gardens
+135923	Bakeries
+135923	Breakfast & Brunch
+135923	Cafes
+135923	Coffee & Tea
+135923	Desserts
+135923	Food
+135923	Restaurants
+136154	Coffee & Tea
+136154	Desserts
+136154	Food
+136182	Japanese
+136182	Restaurants
+136182	Sushi Bars
+136187	Adult Entertainment
+136187	Arts & Entertainment
+136187	Dance Clubs
+136187	Music Venues
+136187	Nightlife
+136224	American (Traditional)
+136224	Burgers
+136224	Restaurants
+136224	Sandwiches
+136597	American (Traditional)
+136597	Bars
+136597	Chicken Wings
+136597	Nightlife
+136597	Restaurants
+136597	Sports Bars
+136678	Arts & Entertainment
+136678	Casinos
+136678	Event Planning & Services
+136678	Hotels
+136678	Hotels & Travel
+136692	Bars
+136692	Cocktail Bars
+136692	Mexican
+136692	Nightlife
+136692	Restaurants
+136868	Korean
+136868	Restaurants
+136877	Arts & Entertainment
+136877	Casinos
+136877	Event Planning & Services
+136877	Hotels
+136877	Hotels & Travel
+136993	American (Traditional)
+136993	Barbeque
+136993	Burgers
+136993	Food
+136993	Gastropubs
+136993	Restaurants
+136993	Salad
+136999	Desserts
+136999	Food
+136999	Popcorn Shops
+136999	Specialty Food
+137065	American (New)
+137065	Arts & Entertainment
+137065	Bars
+137065	Casinos
+137065	Cocktail Bars
+137065	Event Planning & Services
+137065	Hotels
+137065	Hotels & Travel
+137065	Nightlife
+137065	Piano Bars
+137065	Restaurants
+137413	Barbeque
+137413	Japanese
+137413	Restaurants
+137413	Steakhouses
+137413	Sushi Bars
+137636	Breakfast & Brunch
+137636	French
+137636	Restaurants
+137636	Steakhouses
+137805	American (New)
+137805	Burgers
+137805	Restaurants
+138015	Burgers
+138015	Fast Food
+138015	Restaurants
+138227	Asian Fusion
+138227	Chinese
+138227	Gluten-Free
+138227	Restaurants
+138310	American (Traditional)
+138310	Arts & Entertainment
+138310	Burgers
+138310	Performing Arts
+138310	Restaurants
+138354	American (New)
+138354	Restaurants
+138354	Salad
+138354	Sandwiches
+138659	Buffets
+138659	Restaurants
+138659	Salad
+138659	Soup
+138659	Vegetarian
+138979	Bars
+138979	Nightlife
+138979	Restaurants
+138979	Steakhouses
+139011	Restaurants
+139011	Sandwiches
+139265	Bakeries
+139265	Desserts
+139265	Food
+139265	German
+139265	Pretzels
+139265	Restaurants
+139304	Arts & Entertainment
+139304	Casinos
+139304	Event Planning & Services
+139304	Hotels
+139304	Hotels & Travel
+139304	Resorts
+139400	American (Traditional)
+139400	Bars
+139400	Diners
+139400	Nightlife
+139400	Restaurants
+139400	Seafood
+139400	Steakhouses
+139545	Arts & Entertainment
+139545	Bars
+139545	Casinos
+139545	Local Flavor
+139545	Nightlife
+139554	Barbeque
+139554	Chinese
+139554	Noodles
+139554	Restaurants
+139576	American (Traditional)
+139576	Bars
+139576	Nightlife
+139576	Restaurants
+139576	Seafood
+139576	Steakhouses
+139576	Wine Bars
+139580	Active Life
+139580	Arts & Entertainment
+139580	Casinos
+139580	Event Planning & Services
+139580	Golf
+139580	Hotels
+139580	Hotels & Travel
+139580	Nightlife
+139580	Resorts
+139687	Japanese
+139687	Restaurants
+139687	Steakhouses
+139687	Sushi Bars
+139736	American (New)
+139736	Breakfast & Brunch
+139736	Burgers
+139736	Chicken Shop
+139736	Coffee & Tea
+139736	Food
+139736	Ice Cream & Frozen Yogurt
+139736	Internet Cafes
+139736	Juice Bars & Smoothies
+139736	Restaurants
+139736	Sandwiches
+139736	Shaved Ice
+139800	Food
+139800	Grocery
+139800	Health Markets
+139800	Organic Stores
+139800	Specialty Food
+140040	Fondue
+140040	Hot Pot
+140040	Japanese
+140040	Restaurants
+140040	Sushi Bars
+140241	Barbeque
+140241	Caterers
+140241	Event Planning & Services
+140241	Restaurants
+140241	Soul Food
+140386	Bakeries
+140386	Coffee & Tea
+140386	Desserts
+140386	Food
+140386	Gelato
+140455	Bagels
+140455	Bakeries
+140455	Breakfast & Brunch
+140455	Coffee & Tea
+140455	Food
+140455	Juice Bars & Smoothies
+140455	Restaurants
+140516	Fashion
+140516	Outlet Stores
+140516	Restaurants
+140516	Shopping
+140516	Shopping Centers
+140576	Pizza
+140576	Restaurants
+140619	American (New)
+140619	Bars
+140619	Cocktail Bars
+140619	Desserts
+140619	Food
+140619	Nightlife
+140619	Restaurants
+140721	Cafes
+140721	Coffee & Tea
+140721	Desserts
+140721	Food
+140721	Restaurants
+140958	Candy Stores
+140958	Chocolatiers & Shops
+140958	Food
+140958	Shopping
+140958	Souvenir Shops
+140958	Specialty Food
+140962	Caterers
+140962	Desserts
+140962	Event Planning & Services
+140962	Food
+140962	Italian
+140962	Restaurants
+140962	Salad
+140962	Seafood
+140962	Venues & Event Spaces
+141123	Barbeque
+141123	Restaurants
+141123	Sandwiches
+141257	American (New)
+141257	American (Traditional)
+141257	Bars
+141257	Nightlife
+141257	Pubs
+141257	Restaurants
+141257	Sports Bars
+141266	Arts & Entertainment
+141266	Casinos
+141266	Event Planning & Services
+141266	Hotels
+141266	Hotels & Travel
+141266	Resorts
+141266	Restaurants
+141332	Cuban
+141332	Restaurants
+141332	Tapas Bars
+141364	American (New)
+141364	Chicken Shop
+141364	Chicken Wings
+141364	Fast Food
+141364	Restaurants
+141416	Desserts
+141416	Food
+141416	Food Stands
+141416	Hawaiian
+141416	Restaurants
+141416	Shaved Ice
+141539	American (Traditional)
+141539	Bars
+141539	Nightlife
+141539	Pizza
+141539	Restaurants
+141539	Salad
+141539	Sandwiches
+141539	Seafood
+141540	American (New)
+141540	American (Traditional)
+141540	Asian Fusion
+141540	Bars
+141540	Beer
+141540	Beer Bar
+141540	Cocktail Bars
+141540	Food
+141540	Nightlife
+141540	Restaurants
+141540	Seafood
+141540	Steakhouses
+141540	Vegetarian
+141540	Wine & Spirits
+141540	Wine Bars
+141788	Breakfast & Brunch
+141788	Creperies
+141788	Restaurants
+142044	Barbeque
+142044	Chinese
+142044	Noodles
+142044	Restaurants
+142338	Department Stores
+142338	Discount Store
+142338	Drugstores
+142338	Electronics
+142338	Fashion
+142338	Food
+142338	Grocery
+142338	Mobile Phones
+142338	Shopping
+142499	Arts & Entertainment
+142499	Cinema
+142499	Ticket Sales
+142506	Arts & Entertainment
+142506	Performing Arts
+142513	Beer
+142513	Cafes
+142513	Coffee & Tea
+142513	Desserts
+142513	Food
+142513	Restaurants
+142513	Sandwiches
+142513	Wine & Spirits
+142528	British
+142528	Food
+142528	Restaurants
+142528	Tea Rooms
+142661	Arts & Entertainment
+142661	Cinema
+143052	Italian
+143052	Restaurants
+143217	Bubble Tea
+143217	Food
+143217	Juice Bars & Smoothies
+143254	Restaurants
+143254	Steakhouses
+143276	American (Traditional)
+143276	Italian
+143276	Restaurants
+143280	Shopping
+143280	Shopping Centers
+143357	Brasseries
+143357	Cafes
+143357	French
+143357	Hostels
+143357	Hotels & Travel
+143357	Restaurants
+143357	Steakhouses
+143806	American (Traditional)
+143806	Breakfast & Brunch
+143806	Restaurants
+144123	American (Traditional)
+144123	Burgers
+144123	Restaurants
+144315	Arts & Entertainment
+144315	Casinos
+144315	Event Planning & Services
+144315	Hotels
+144315	Hotels & Travel
+144359	American (Traditional)
+144359	Bars
+144359	Breakfast & Brunch
+144359	Lounges
+144359	Nightlife
+144359	Restaurants
+144535	Chinese
+144535	Restaurants
+144535	Thai
+144535	Vietnamese
+144776	Computers
+144776	IT Services & Computer Repair
+144776	Local Services
+144776	Mobile Phones
+144776	Shopping
+144874	Airports
+144874	Hotels & Travel
+144970	American (New)
+144970	Italian
+144970	Restaurants
+144970	Seafood
+144970	Steakhouses
+145000	Japanese
+145000	Restaurants
+145000	Steakhouses
+145000	Sushi Bars
+145002	Bars
+145002	Food
+145002	Italian
+145002	Nightlife
+145002	Restaurants
+145002	Vegan
+145584	Japanese
+145584	Noodles
+145584	Ramen
+145584	Restaurants
+145963	Food
+145963	Hobby Shops
+145963	Shopping
+145963	Specialty Food
+146061	Caterers
+146061	Event Planning & Services
+146061	Greek
+146061	Italian
+146061	Mediterranean
+146061	Restaurants
+146113	Greek
+146113	Restaurants
+146113	Seafood
+146115	Arts & Entertainment
+146115	Performing Arts
+146440	American (New)
+146440	Bars
+146440	Gastropubs
+146440	Nightlife
+146440	Restaurants
+146440	Sports Bars
+146488	American (Traditional)
+146488	Bars
+146488	Chicken Wings
+146488	Nightlife
+146488	Restaurants
+146488	Sports Bars
+146712	Hawaiian
+146712	Restaurants
+146789	Japanese
+146789	Restaurants
+146789	Sushi Bars
+146936	Food
+146936	Grocery
+146936	Health Markets
+146936	Organic Stores
+146936	Specialty Food
+147377	Food
+147377	Ice Cream & Frozen Yogurt
+147566	Noodles
+147566	Restaurants
+147566	Vietnamese
+147676	Fast Food
+147676	Filipino
+147676	Restaurants
+147782	Landmarks & Historical Buildings
+147782	Public Services & Government
+147998	Arts & Entertainment
+147998	Casinos
+147998	Event Planning & Services
+147998	Hotels
+147998	Hotels & Travel
+148007	Bakeries
+148007	Cupcakes
+148007	Desserts
+148007	Food
+148138	American (New)
+148138	Caterers
+148138	Delis
+148138	Event Planning & Services
+148138	Restaurants
+148138	Salad
+148138	Sandwiches
+148190	Bakeries
+148190	Desserts
+148190	Food
+148355	Asian Fusion
+148355	Chinese
+148355	Mexican
+148355	Restaurants
+148379	Asian Fusion
+148379	Japanese
+148379	Mexican
+148379	Restaurants
+148379	Sushi Bars
+148501	Automotive
+148501	Department Stores
+148501	Fashion
+148501	Gas Stations
+148501	Shopping
+148501	Wholesale Stores
+148529	Arts & Entertainment
+148529	Cinema
+148719	Barbeque
+148719	Hawaiian
+148719	Restaurants
+148911	Japanese
+148911	Restaurants
+148911	Sushi Bars
+148933	American (New)
+148933	Restaurants
+148933	Southern
+148980	Burgers
+148980	Hot Dogs
+148980	Restaurants
+148980	Sandwiches
+149045	American (New)
+149045	Bars
+149045	Mediterranean
+149045	Nightlife
+149045	Restaurants
+149304	Mongolian
+149304	Restaurants
+149445	American (New)
+149445	Arts & Entertainment
+149445	Bars
+149445	Cajun/Creole
+149445	Event Planning & Services
+149445	Hotels
+149445	Hotels & Travel
+149445	Music Venues
+149445	Musicians
+149445	Nightlife
+149445	Performing Arts
+149445	Restaurants
+149445	Venues & Event Spaces
+150092	American (New)
+150092	American (Traditional)
+150092	Barbeque
+150092	Desserts
+150092	Food
+150092	Restaurants
+150092	Seafood
+150094	Japanese
+150094	Restaurants
+150094	Seafood
+150094	Sushi Bars
+150230	Bars
+150230	Nightlife
+150230	Restaurants
+150230	Seafood
+150338	Italian
+150338	Restaurants
+150342	Gastropubs
+150342	Restaurants
+150759	American (Traditional)
+150759	Chicken Shop
+150759	Chicken Wings
+150759	Fast Food
+150759	Restaurants
+150759	Southern
+150770	Cafes
+150770	Coffee & Tea
+150770	Desserts
+150770	Food
+150770	Restaurants
+150896	Bars
+150896	Beer
+150896	Cocktail Bars
+150896	Food
+150896	Nightlife
+150896	Restaurants
+150896	Seafood
+150896	Steakhouses
+150896	Wine & Spirits
+151165	American (New)
+151165	Food
+151165	Italian
+151165	Local Flavor
+151165	Noodles
+151165	Restaurants
+151165	Salad
+151210	Japanese
+151210	Restaurants
+151210	Sushi Bars
+151301	Delis
+151301	Restaurants
+151301	Sandwiches
+151301	Soup
+151501	American (New)
+151501	American (Traditional)
+151501	Desserts
+151501	Food
+151501	Restaurants
+151501	Sandwiches
+151700	Ethical Grocery
+151700	Food
+151700	Food Stands
+151700	Grocery
+151700	Korean
+151700	Restaurants
+152029	American (New)
+152029	American (Traditional)
+152029	Bars
+152029	Breakfast & Brunch
+152029	Food
+152029	Mexican
+152029	Nightlife
+152029	Pubs
+152029	Restaurants
+152029	Sports Bars
+152472	Asian Fusion
+152472	Japanese
+152472	Restaurants
+152472	Seafood
+152472	Sushi Bars
+152849	American (New)
+152849	American (Traditional)
+152849	Asian Fusion
+152849	Bars
+152849	Beer Bar
+152849	Cocktail Bars
+152849	Nightlife
+152849	Restaurants
+152849	Seafood
+152849	Steakhouses
+152849	Vegetarian
+152849	Wine Bars
+153034	Local Flavor
+153034	Restaurants
+153034	Thai
+153429	Bars
+153429	Italian
+153429	Nightlife
+153429	Restaurants
+153429	Wine Bars
+153582	Bars
+153582	Irish
+153582	Irish Pub
+153582	Nightlife
+153582	Pubs
+153582	Restaurants
+153603	Arts & Entertainment
+153603	Festivals
+153603	Food
+153603	Food Trucks
+153603	Local Flavor
+153789	Bars
+153789	British
+153789	Food
+153789	Nightlife
+153789	Pubs
+153789	Restaurants
+153789	Specialty Food
+153831	Food
+153831	Italian
+153831	Pizza
+153831	Restaurants
+153831	Salad
+153831	Specialty Food
+153873	Farmers Market
+153873	Food
+153873	Fruits & Veggies
+153873	Grocery
+153873	Health Markets
+153873	Personal Shopping
+153873	Shopping
+153873	Specialty Food
+154037	Bars
+154037	Beer Bar
+154037	Cocktail Bars
+154037	Dive Bars
+154037	Nightlife
+154037	Pubs
+154037	Wine Bars
+154124	Bubble Tea
+154124	Coffee & Tea
+154124	Food
+154124	Ice Cream & Frozen Yogurt
+154288	Arts & Entertainment
+154288	Bars
+154288	Beauty & Spas
+154288	Casinos
+154288	Day Spas
+154288	Event Planning & Services
+154288	Hotels
+154288	Hotels & Travel
+154288	Nightlife
+154288	Resorts
+154288	Restaurants
+154288	Seafood
+154288	Sports Bars
+154288	Steakhouses
+154323	Mexican
+154323	Restaurants
+154413	Bars
+154413	Italian
+154413	Lounges
+154413	Nightlife
+154413	Restaurants
+154413	Wine Bars
+154630	Candy Stores
+154630	Desserts
+154630	Food
+154630	Specialty Food
+154767	American (New)
+154767	Asian Fusion
+154767	Bars
+154767	Comfort Food
+154767	Lounges
+154767	Mexican
+154767	Nightlife
+154767	Restaurants
+154925	Bars
+154925	Breakfast & Brunch
+154925	Local Flavor
+154925	Mexican
+154925	Nightlife
+154925	Restaurants
+154949	American (New)
+154949	Bars
+154949	Nightlife
+154949	Pizza
+154949	Restaurants
+154949	Salad
+154949	Sandwiches
+155021	Breakfast & Brunch
+155021	Food
+155021	Restaurants
+155021	Sandwiches
+155021	Street Vendors
+155045	Italian
+155045	Japanese
+155045	Restaurants
+155045	Vegan
+155105	American (New)
+155105	American (Traditional)
+155105	Bars
+155105	Beer
+155105	Chicken Wings
+155105	Food
+155105	Lounges
+155105	Nightlife
+155105	Restaurants
+155105	Sports Bars
+155105	Wine & Spirits
+155116	Beer
+155116	Food
+155116	Japanese
+155116	Ramen
+155116	Restaurants
+155116	Sushi Bars
+155116	Wine & Spirits
+155151	American (New)
+155151	American (Traditional)
+155151	Breakfast & Brunch
+155151	Restaurants
+155323	American (New)
+155323	American (Traditional)
+155323	Restaurants
+155323	Seafood
+155323	Steakhouses
+155518	American (Traditional)
+155518	Food
+155518	Ice Cream & Frozen Yogurt
+155518	Italian
+155518	Pizza
+155518	Restaurants
+155716	Japanese
+155716	Ramen
+155716	Restaurants
+155776	American (New)
+155776	Breakfast & Brunch
+155776	Cafes
+155776	Restaurants
+155807	Beer
+155807	Florists
+155807	Flowers & Gifts
+155807	Food
+155807	Grocery
+155807	Shopping
+155807	Specialty Food
+155807	Wine & Spirits
+155883	Greek
+155883	Mediterranean
+155883	Middle Eastern
+155883	Restaurants
+155883	Tapas/Small Plates
+155996	Mediterranean
+155996	Middle Eastern
+155996	Restaurants
+155996	Sandwiches
+156108	Arts & Entertainment
+156108	Performing Arts
+156113	American (New)
+156113	Restaurants
+156113	Tapas Bars
+156398	Breakfast & Brunch
+156398	Buffets
+156398	Restaurants
+156484	Delis
+156484	Italian
+156484	Restaurants
+156581	Asian Fusion
+156581	Desserts
+156581	Ethnic Food
+156581	Food
+156581	Hawaiian
+156581	Mexican
+156581	Restaurants
+156581	Specialty Food
+156682	Bars
+156682	Desserts
+156682	Food
+156682	Nightlife
+156682	Restaurants
+156682	Thai
+156682	Wine Bars
+156787	Breakfast & Brunch
+156787	Chicken Shop
+156787	Restaurants
+156787	Soul Food
+156884	Japanese
+156884	Restaurants
+156884	Seafood
+156884	Sushi Bars
+156989	Bars
+156989	Japanese
+156989	Nightlife
+156989	Restaurants
+156989	Sushi Bars
+157084	American (New)
+157084	Bars
+157084	Breakfast & Brunch
+157084	Gastropubs
+157084	Lounges
+157084	Nightlife
+157084	Restaurants
+157202	Chinese
+157202	Restaurants
+157202	Seafood
+157202	Thai
+157425	Donuts
+157425	Food
+157628	Arts & Entertainment
+157628	Festivals
+157628	Local Flavor
+157628	Music Venues
+157628	Nightlife
+157768	American (New)
+157768	American (Traditional)
+157768	Bars
+157768	Burgers
+157768	Lounges
+157768	Nightlife
+157768	Restaurants
+158021	Arts & Entertainment
+158021	Casinos
+158021	Event Planning & Services
+158021	Hotels
+158021	Hotels & Travel
+158180	American (Traditional)
+158180	Restaurants
+158180	Soul Food
+158180	Southern
+158251	Barbeque
+158251	Hot Pot
+158251	Korean
+158251	Restaurants
+158320	Bars
+158320	Beer
+158320	Beer Bar
+158320	Food
+158320	Nightlife
+158320	Wine & Spirits
+158320	Wine Bars
+158346	Breakfast & Brunch
+158346	Caterers
+158346	Event Planning & Services
+158346	Food
+158346	Food Delivery Services
+158346	Restaurants
+158346	Salad
+158346	Sandwiches
+158346	Wraps
+158474	Arts & Entertainment
+158474	Casinos
+158474	Event Planning & Services
+158474	Hotels
+158474	Hotels & Travel
+158609	Asian Fusion
+158609	Chinese
+158609	Japanese
+158609	Korean
+158609	Restaurants
+158609	Tapas/Small Plates
+158609	Thai
+158850	Restaurants
+158850	Spanish
+158850	Tapas Bars
+159008	American (New)
+159008	American (Traditional)
+159008	Desserts
+159008	Food
+159008	Gastropubs
+159008	Hot Dogs
+159008	Restaurants
+159008	Street Vendors
+159076	American (New)
+159076	Cajun/Creole
+159076	Diners
+159076	Restaurants
+159102	Arts & Entertainment
+159102	Casinos
+159102	Event Planning & Services
+159102	Hotels
+159102	Hotels & Travel
+159102	Resorts
+159102	Venues & Event Spaces
+159172	Breakfast & Brunch
+159172	Greek
+159172	Lebanese
+159172	Mediterranean
+159172	Middle Eastern
+159172	Restaurants
+159172	Salad
+159396	American (Traditional)
+159396	Restaurants
+159396	Seafood
+159396	Steakhouses
+159436	Bars
+159436	Lounges
+159436	Nightlife
+159702	Breakfast & Brunch
+159702	Mexican
+159702	Restaurants
+159702	Seafood
+159768	Arts & Entertainment
+159768	Museums
+159770	Art Galleries
+159770	Arts & Entertainment
+159770	Bakeries
+159770	Cafes
+159770	Coffee & Tea
+159770	Food
+159770	Restaurants
+159770	Shopping
+159804	Burgers
+159804	Fast Food
+159804	Restaurants
+160042	Burgers
+160042	Food
+160042	Ice Cream & Frozen Yogurt
+160042	Restaurants
+160344	Bars
+160344	Hawaiian
+160344	Karaoke
+160344	Nightlife
+160344	Restaurants
+160439	Buffets
+160439	Restaurants
+160498	American (New)
+160498	Beer
+160498	Breakfast & Brunch
+160498	Food
+160498	Gluten-Free
+160498	Mexican
+160498	Restaurants
+160498	Salad
+160498	Tacos
+160498	Vegetarian
+160498	Wine & Spirits
+160897	Bagels
+160897	Bakeries
+160897	Breakfast & Brunch
+160897	Cafes
+160897	Coffee & Tea
+160897	Comfort Food
+160897	Delis
+160897	Food
+160897	Restaurants
+161331	American (Traditional)
+161331	Barbeque
+161331	Caterers
+161331	Event Planning & Services
+161331	Restaurants
+161331	Southern
+161404	Bars
+161404	Nightlife
+161404	Restaurants
+161404	Seafood
+161404	Sports Bars
+161481	Bars
+161481	Mexican
+161481	Nightlife
+161481	Restaurants
+161481	Tex-Mex
+161625	Bars
+161625	Beer
+161625	Cocktail Bars
+161625	Food
+161625	Nightlife
+161625	Wine & Spirits
+161758	American (Traditional)
+161758	Burgers
+161758	Restaurants
+161772	Breakfast & Brunch
+161772	Creperies
+161772	Desserts
+161772	Food
+161772	Ice Cream & Frozen Yogurt
+161772	Patisserie/Cake Shop
+161772	Restaurants
+161772	Waffles
+161807	Cajun/Creole
+161807	Restaurants
+161807	Seafood
+161892	Ethnic Food
+161892	Food
+161892	Grocery
+161892	International Grocery
+161892	Meat Shops
+161892	Seafood Markets
+161892	Specialty Food
+161931	Coffee & Tea
+161931	Food
+161931	Restaurants
+161931	Taiwanese
+162672	Bars
+162672	Nightlife
+162672	Restaurants
+162672	Seafood
+162672	Sports Bars
+162672	Steakhouses
+162889	Coffee & Tea
+162889	Desserts
+162889	Food
+162889	Gelato
+162909	American (Traditional)
+162909	Barbeque
+162909	Restaurants
+162909	Steakhouses
+163200	Barbeque
+163200	Restaurants
+163428	Japanese
+163428	Restaurants
+163446	Bars
+163446	Cocktail Bars
+163446	Latin American
+163446	Mexican
+163446	Nightlife
+163446	Restaurants
+163446	Tapas/Small Plates
+163488	Argentine
+163488	Restaurants
+163488	Steakhouses
+163990	American (New)
+163990	American (Traditional)
+163990	Bars
+163990	Nightlife
+163990	Restaurants
+163990	Sports Bars
+164346	Cantonese
+164346	Chinese
+164346	Dim Sum
+164346	Diners
+164346	Restaurants
+164346	Seafood
+164653	American (New)
+164653	Asian Fusion
+164653	Restaurants
+164653	Seafood
+164653	Steakhouses
+164673	Bars
+164673	Breakfast & Brunch
+164673	Irish
+164673	Irish Pub
+164673	Nightlife
+164673	Pubs
+164673	Restaurants
+165020	Breakfast & Brunch
+165020	Greek
+165020	Italian
+165020	Mediterranean
+165020	Restaurants
+165020	Vegan
+165113	Cajun/Creole
+165113	Restaurants
+165113	Seafood
+165341	American (Traditional)
+165341	Bars
+165341	Desserts
+165341	Food
+165341	Nightlife
+165341	Restaurants
+165341	Wine Bars
+165442	Restaurants
+165442	Spanish
+165442	Tapas Bars
+165442	Tapas/Small Plates
+165465	Beauty & Spas
+165465	Day Spas
+165465	Event Planning & Services
+165465	Home Cleaning
+165465	Home Services
+165465	Hotels
+165465	Hotels & Travel
+165465	Resorts
+165579	Asian Fusion
+165579	Gastropubs
+165579	Restaurants
+165657	Breakfast & Brunch
+165657	Diners
+165657	Restaurants
+165736	Bakeries
+165736	Desserts
+165736	Food
+165783	Bakeries
+165783	Bars
+165783	Coffee & Tea
+165783	Custom Cakes
+165783	Desserts
+165783	Food
+165783	Hotels & Travel
+165783	Ice Cream & Frozen Yogurt
+165783	Juice Bars & Smoothies
+165783	Nightlife
+165783	Resorts
+165790	Restaurants
+165790	Vietnamese
+165848	Arts & Entertainment
+165848	Casinos
+165848	Event Planning & Services
+165848	Hotels
+165848	Hotels & Travel
+165848	Restaurants
+165865	Cafes
+165865	Japanese
+165865	Restaurants
+165966	American (New)
+165966	Asian Fusion
+165966	Barbeque
+165966	Bubble Tea
+165966	Chicken Shop
+165966	Chicken Wings
+165966	Comfort Food
+165966	Food
+165966	Hawaiian
+165966	Restaurants
+165966	Southern
+165984	Arts & Entertainment
+165984	Casinos
+165984	Event Planning & Services
+165984	Hotels
+165984	Hotels & Travel
+166065	Food
+166065	Halal
+166065	Mediterranean
+166065	Middle Eastern
+166065	Restaurants
+166065	Specialty Food
+166090	American (New)
+166090	American (Traditional)
+166090	Restaurants
+166090	Seafood
+166090	Steakhouses
+166096	American (Traditional)
+166096	Bars
+166096	Italian
+166096	Nightlife
+166096	Restaurants
+166096	Sandwiches
+166096	Seafood
+166096	Wine Bars
+166139	Cafes
+166139	Greek
+166139	Mediterranean
+166139	Restaurants
+166241	American (Traditional)
+166241	Breakfast & Brunch
+166241	Restaurants
+166497	Italian
+166497	Restaurants
+166863	Bakeries
+166863	Coffee & Tea
+166863	Creperies
+166863	Cupcakes
+166863	Custom Cakes
+166863	Desserts
+166863	Food
+166863	Restaurants
+167089	Breakfast & Brunch
+167089	Buffets
+167089	Restaurants
+167147	American (Traditional)
+167147	Event Planning & Services
+167147	Restaurants
+167147	Steakhouses
+167147	Venues & Event Spaces
+167414	American (Traditional)
+167414	Breakfast & Brunch
+167414	Restaurants
+167426	Coffee & Tea
+167426	Food
+167621	American (Traditional)
+167621	Brasseries
+167621	Breakfast & Brunch
+167621	Restaurants
+167795	Bars
+167795	Beer
+167795	Burgers
+167795	Food
+167795	Mexican
+167795	Nightlife
+167795	Restaurants
+167795	Vegan
+167795	Vegetarian
+167795	Wine & Spirits
+167936	Butcher
+167936	Food
+167936	Meat Shops
+167936	Restaurants
+167936	Specialty Food
+167936	Steakhouses
+167943	Cantonese
+167943	Chinese
+167943	Restaurants
+167943	Seafood
+167964	Bakeries
+167964	Coffee & Tea
+167964	Desserts
+167964	Food
+167988	Asian Fusion
+167988	Japanese
+167988	Restaurants
+167988	Sushi Bars
+168122	Japanese
+168122	Restaurants
+168411	American (New)
+168411	American (Traditional)
+168411	Burgers
+168411	Restaurants
+168996	Bars
+168996	Cocktail Bars
+168996	Lounges
+168996	Nightlife
+168996	Speakeasies
+169058	American (Traditional)
+169058	Breakfast & Brunch
+169058	Caterers
+169058	Comfort Food
+169058	Diners
+169058	Event Planning & Services
+169058	Restaurants
+169058	Southern
+169402	Arts & Entertainment
+169402	Event Planning & Services
+169402	Stadiums & Arenas
+169402	Venues & Event Spaces
+169474	American (New)
+169474	Bars
+169474	Burgers
+169474	Cocktail Bars
+169474	Comfort Food
+169474	Desserts
+169474	Food
+169474	Gastropubs
+169474	Nightlife
+169474	Restaurants
+169474	Salad
+169474	Seafood
+169474	Tapas/Small Plates
+169474	Vegan
+169483	Restaurants
+169483	Vietnamese
+169498	Desserts
+169498	Food
+169498	Ice Cream & Frozen Yogurt
+169498	Italian
+169498	Restaurants
+169537	Bakeries
+169537	Food
+169796	Desserts
+169796	Food
+169796	Ice Cream & Frozen Yogurt
+170130	American (New)
+170130	Breakfast & Brunch
+170130	Restaurants
+170181	Restaurants
+170181	Vietnamese
+170385	Bikes
+170385	Fashion
+170385	Outdoor Gear
+170385	Shopping
+170385	Sporting Goods
+170385	Sports Wear
+170668	American (New)
+170668	Restaurants
+170668	Salad
+170668	Sandwiches
+170668	Soup
+170735	Cajun/Creole
+170735	Restaurants
+170834	Asian Fusion
+170834	Bubble Tea
+170834	Chinese
+170834	Coffee & Tea
+170834	Food
+170834	Hawaiian
+170834	Restaurants
+171555	Fashion
+171555	Hunting & Fishing Supplies
+171555	Outdoor Gear
+171555	Shoe Stores
+171555	Shopping
+171555	Sporting Goods
+171607	American (New)
+171607	Breakfast & Brunch
+171607	Restaurants
+171607	Steakhouses
+171607	Sushi Bars
+171700	American (New)
+171700	Burgers
+171700	Restaurants
+172108	Bars
+172108	Cocktail Bars
+172108	Live/Raw Food
+172108	Nightlife
+172108	Restaurants
+172108	Seafood
+172108	Sushi Bars
+172301	Bars
+172301	Dance Clubs
+172301	Lounges
+172301	Nightlife
+172561	Restaurants
+172561	Sushi Bars
+172852	American (New)
+172852	Bars
+172852	French
+172852	Lounges
+172852	Nightlife
+172852	Restaurants
+172855	Italian
+172855	Pizza
+172855	Restaurants
+172956	Bakeries
+172956	Breakfast & Brunch
+172956	Food
+172956	Restaurants
+172958	American (New)
+172958	Cafes
+172958	Coffee & Tea
+172958	Food
+172958	Restaurants
+172989	Arts & Entertainment
+172989	Casinos
+172989	Event Planning & Services
+172989	Hotels
+172989	Hotels & Travel
+172997	Bars
+172997	Mexican
+172997	Nightlife
+172997	Restaurants
+172997	Sports Bars
+173154	Bars
+173154	Cocktail Bars
+173154	French
+173154	Nightlife
+173154	Restaurants
+173154	Steakhouses
+173165	American (New)
+173165	American (Traditional)
+173165	Barbeque
+173165	Buffets
+173165	Food
+173165	Restaurants
+173165	Seafood
+173267	Restaurants
+173267	Seafood
+173267	Sushi Bars
+173395	American (Traditional)
+173395	Arts & Entertainment
+173395	Buffets
+173395	Casinos
+173395	Restaurants
+173487	Active Life
+173487	Arts & Entertainment
+173487	Event Planning & Services
+173487	Hotels
+173487	Hotels & Travel
+173487	Music Venues
+173487	Nightlife
+173487	Swimming Pools
+173488	Pizza
+173488	Restaurants
+173490	Italian
+173490	Restaurants
+173561	Arts & Entertainment
+173561	Casinos
+173561	Event Planning & Services
+173561	Hotels
+173561	Hotels & Travel
+173802	Buffets
+173802	Food
+173802	Food Delivery Services
+173802	Halal
+173802	Indian
+173802	Restaurants
+173802	Vegetarian
+173874	Restaurants
+173874	Thai
+173875	Food
+173875	Japanese
+173875	Noodles
+173875	Ramen
+173875	Restaurants
+173892	Bars
+173892	Cocktail Bars
+173892	Italian
+173892	Nightlife
+173892	Restaurants
+173892	Steakhouses
+173892	Tapas Bars
+174448	Bars
+174448	Nightlife
+174448	Restaurants
+174448	Seafood
+174448	Sports Bars
+174616	Chinese
+174616	Restaurants
+174616	Taiwanese
+174630	Buffets
+174630	Chinese
+174630	Dim Sum
+174630	Japanese
+174630	Korean
+174630	Restaurants
+174630	Sushi Bars
+174694	American (New)
+174694	Cheesesteaks
+174694	Desserts
+174694	Food
+174694	Restaurants
+174694	Steakhouses
+174783	Bars
+174783	Cocktail Bars
+174783	Lounges
+174783	Nightlife
+174834	Bars
+174834	French
+174834	Nightlife
+174834	Restaurants
+174834	Spanish
+174883	Arts & Entertainment
+174883	Casinos
+174883	Event Planning & Services
+174883	Hotels
+174883	Hotels & Travel
+174883	Resorts
+174930	Bubble Tea
+174930	Food
+174930	Juice Bars & Smoothies
+174930	Tea Rooms
+174955	Bubble Tea
+174955	Coffee & Tea
+174955	Food
+174955	Ice Cream & Frozen Yogurt
+174955	Tea Rooms
+175090	Bakeries
+175090	Breakfast & Brunch
+175090	Cafes
+175090	Event Planning & Services
+175090	Food
+175090	French
+175090	Restaurants
+175090	Venues & Event Spaces
+175311	Italian
+175311	Restaurants
+175348	Brazilian
+175348	Buffets
+175348	Restaurants
+175348	Seafood
+175348	Steakhouses
+175470	Japanese
+175470	Restaurants
+175583	Arts & Entertainment
+175583	Casinos
+175583	Event Planning & Services
+175583	Hotels
+175583	Hotels & Travel
+175585	Asian Fusion
+175585	Chinese
+175585	Gluten-Free
+175585	Restaurants
+175598	Active Life
+175598	Beaches
+175598	Swimming Pools
+175599	Ethnic Food
+175599	Food
+175599	Grocery
+175599	Seafood Markets
+175599	Specialty Food
+175617	Acai Bowls
+175617	Desserts
+175617	Food
+175617	Ice Cream & Frozen Yogurt
+175617	Juice Bars & Smoothies
+175617	Macarons
+175617	Shaved Ice
+175617	Specialty Food
+176064	American (Traditional)
+176064	Cajun/Creole
+176064	Restaurants
+176064	Seafood
+176204	Bars
+176204	Event Planning & Services
+176204	Hotels
+176204	Hotels & Travel
+176204	Lounges
+176204	Nightlife
+176651	Arts & Entertainment
+176651	Casinos
+176651	Event Planning & Services
+176651	Hotels
+176651	Hotels & Travel
+176760	American (New)
+176760	American (Traditional)
+176760	Buffets
+176760	Restaurants
+176879	Bakeries
+176879	Cupcakes
+176879	Food
+176879	Ice Cream & Frozen Yogurt
+176881	Shopping
+176881	Shopping Centers
+177328	Asian Fusion
+177328	Bars
+177328	Lounges
+177328	Nightlife
+177328	Restaurants
+177381	Restaurants
+177381	Vietnamese
+177413	Arts & Entertainment
+177413	Museums
+177416	Arts & Entertainment
+177416	Casinos
+177416	Event Planning & Services
+177416	Hotels
+177416	Hotels & Travel
+177495	Japanese
+177495	Restaurants
+177495	Sushi Bars
+177574	Caterers
+177574	Event Planning & Services
+177574	Food
+177574	Food Delivery Services
+177574	Restaurants
+177574	Salad
+177574	Sandwiches
+177574	Soup
+177574	Wraps
+177578	Bars
+177578	Lounges
+177578	Nightlife
+177578	Restaurants
+177578	Steakhouses
+177584	American (Traditional)
+177584	Bars
+177584	Breakfast & Brunch
+177584	Cafes
+177584	Nightlife
+177584	Restaurants
+177584	Soup
+177824	Bakeries
+177824	Food
+177824	Restaurants
+177824	Sandwiches
+177953	Chinese
+177953	Noodles
+177953	Restaurants
+177953	Taiwanese
+178050	American (Traditional)
+178050	Bars
+178050	British
+178050	Fish & Chips
+178050	Gastropubs
+178050	Nightlife
+178050	Pubs
+178050	Restaurants
+178132	Restaurants
+178132	Thai
+178132	Vietnamese
+178191	Bubble Tea
+178191	Cafes
+178191	Coffee & Tea
+178191	Desserts
+178191	Food
+178191	Juice Bars & Smoothies
+178191	Restaurants
+178191	Sandwiches
+178191	Shaved Ice
+178191	Shaved Snow
+178290	Bars
+178290	Irish
+178290	Nightlife
+178290	Pubs
+178290	Restaurants
+178396	Dance Clubs
+178396	Nightlife
+178397	Accessories
+178397	Fashion
+178397	Men's Clothing
+178397	Shopping
+178397	Women's Clothing
+178400	Asian Fusion
+178400	Bars
+178400	Nightlife
+178400	Restaurants
+178400	Seafood
+178441	Cajun/Creole
+178441	Restaurants
+178441	Seafood
+178499	American (New)
+178499	American (Traditional)
+178499	Restaurants
+178517	American (Traditional)
+178517	Bakeries
+178517	Breakfast & Brunch
+178517	Food
+178517	Restaurants
+178748	Bakeries
+178748	Food
+178792	American (New)
+178792	Burgers
+178792	Restaurants
+179051	American (New)
+179051	Restaurants
+179052	Adult Entertainment
+179052	Arts & Entertainment
+179052	Dance Clubs
+179052	Nightlife
+179053	Restaurants
+179053	Thai
+179091	Arcades
+179091	Arts & Entertainment
+179091	Bars
+179091	Nightlife
+179274	Chinese
+179274	Dim Sum
+179274	Restaurants
+179274	Seafood
+179296	Department Stores
+179296	Fashion
+179296	Men's Clothing
+179296	Shopping
+179296	Women's Clothing
+179434	Restaurants
+179434	Spanish
+179434	Steakhouses
+179434	Tapas/Small Plates
+179481	American (Traditional)
+179481	Breakfast & Brunch
+179481	Restaurants
+179491	American (New)
+179491	Burgers
+179491	Fast Food
+179491	Restaurants
+179515	Asian Fusion
+179515	Korean
+179515	Mexican
+179515	Restaurants
+179519	Bubble Tea
+179519	Coffee & Tea
+179519	Food
+179519	Juice Bars & Smoothies
+179519	Tea Rooms
+179696	Arts & Entertainment
+179696	Casinos
+179696	Event Planning & Services
+179696	Hotels
+179696	Hotels & Travel
+179696	Resorts
+179718	Food
+179718	Grocery
+179718	International Grocery
+179757	Japanese
+179757	Restaurants
+179770	American (New)
+179770	Arts & Entertainment
+179770	Bars
+179770	Cocktail Bars
+179770	Diners
+179770	Nightlife
+179770	Performing Arts
+179770	Restaurants
+179838	Barbeque
+179838	Restaurants
+179873	Caterers
+179873	Desserts
+179873	Event Planning & Services
+179873	Food
+179873	Gelato
+179873	Ice Cream & Frozen Yogurt
+179945	Bars
+179945	Beer
+179945	Beer Bar
+179945	Food
+179945	Food Delivery Services
+179945	Nightlife
+179945	Noodles
+179945	Restaurants
+179945	Thai
+179945	Vegetarian
+179945	Wine & Spirits
+179945	Wine Bars
+180139	Asian Fusion
+180139	Chinese
+180139	Delis
+180139	Noodles
+180139	Restaurants
+180139	Taiwanese
+180152	Italian
+180152	Restaurants
+180152	Tapas/Small Plates
+180161	Bars
+180161	Cocktail Bars
+180161	Lounges
+180161	Nightlife
+180448	Pizza
+180448	Restaurants
+180448	Vegan
+180479	American (Traditional)
+180479	Breakfast & Brunch
+180479	Burgers
+180479	Diners
+180479	Restaurants
+180518	Desserts
+180518	Food
+180518	Gelato
+180518	Ice Cream & Frozen Yogurt
+180589	Active Life
+180589	American (New)
+180589	American (Traditional)
+180589	Arts & Entertainment
+180589	Bowling
+180589	Music Venues
+180589	Nightlife
+180589	Restaurants
+180628	Restaurants
+180628	Sushi Bars
+180796	Pizza
+180796	Restaurants
+180851	Asian Fusion
+180851	Bubble Tea
+180851	Cafes
+180851	Coffee & Tea
+180851	Delicatessen
+180851	Desserts
+180851	Food
+180851	Juice Bars & Smoothies
+180851	Restaurants
+180852	Beauty & Spas
+180852	Day Spas
+180852	Eyelash Service
+180852	Hair Removal
+180852	Nail Salons
+180852	Skin Care
+181188	Asian Fusion
+181188	Japanese
+181188	Restaurants
+181188	Sushi Bars
+181437	Breakfast & Brunch
+181437	Desserts
+181437	Food
+181437	Restaurants
+181437	Sandwiches
+181437	Waffles
+181525	Buffets
+181525	Restaurants
+181526	American (New)
+181526	Bars
+181526	Lounges
+181526	Nightlife
+181526	Restaurants
+181526	Tapas Bars
+181557	American (New)
+181557	Restaurants
+181557	Steakhouses
+181703	Active Life
+181703	Fitness & Instruction
+181703	Martial Arts
+181703	Pilates
+181703	Sports Clubs
+181703	Yoga
+181708	Bars
+181708	Burgers
+181708	Nightlife
+181708	Restaurants
+181708	Sports Bars
+181826	American (New)
+181826	Bars
+181826	Breweries
+181826	Food
+181826	Nightlife
+181826	Restaurants
+181862	American (New)
+181862	Bars
+181862	Event Planning & Services
+181862	Fondue
+181862	Nightlife
+181862	Restaurants
+181862	Venues & Event Spaces
+181869	Japanese
+181869	Restaurants
+181869	Sushi Bars
+181888	American (New)
+181888	American (Traditional)
+181888	Bars
+181888	Cocktail Bars
+181888	Gastropubs
+181888	Nightlife
+181888	Restaurants
+181935	Fish & Chips
+181935	Gluten-Free
+181935	Mediterranean
+181935	Restaurants
+181935	Seafood
+181947	Diners
+181947	Greek
+181947	Mediterranean
+181947	Restaurants
+181953	Dance Clubs
+181953	Fashion
+181953	Guest Houses
+181953	Hotels & Travel
+181953	Nightlife
+181953	Outlet Stores
+181953	Shopping
+181953	Shopping Centers
+182042	Automotive
+182042	Gas Stations
+182042	Shopping
+182042	Wholesale Stores
+182058	Chinese
+182058	Food
+182058	Local Flavor
+182058	Noodles
+182058	Pasta Shops
+182058	Restaurants
+182058	Soup
+182058	Specialty Food
+182058	Szechuan
+182174	Bars
+182174	Italian
+182174	Nightlife
+182174	Pizza
+182174	Restaurants
+182174	Wine Bars
+182256	Bars
+182256	Latin American
+182256	Mexican
+182256	Nightlife
+182256	Restaurants
+182256	Wine Bars
+182264	Burgers
+182264	Fast Food
+182264	Restaurants
+182446	Arts & Entertainment
+182446	Casinos
+182446	Event Planning & Services
+182446	Hotels
+182446	Hotels & Travel
+182446	Resorts
+182513	Breakfast & Brunch
+182513	Buffets
+182513	Restaurants
+182513	Sandwiches
+182537	American (New)
+182537	Breakfast & Brunch
+182537	Food
+182537	Gluten-Free
+182537	Juice Bars & Smoothies
+182537	Restaurants
+182537	Sandwiches
+182617	Arts & Entertainment
+182617	Casinos
+182617	Event Planning & Services
+182617	Hotels
+182617	Hotels & Travel
+182919	Asian Fusion
+182919	Bars
+182919	Breakfast & Brunch
+182919	Chinese
+182919	Dim Sum
+182919	Japanese
+182919	Nightlife
+182919	Restaurants
+183228	Breakfast & Brunch
+183228	Restaurants
+183228	Sandwiches
+183277	Asian Fusion
+183277	Filipino
+183277	Hawaiian
+183277	Restaurants
+183317	Barbeque
+183317	Korean
+183317	Restaurants
+183317	Steakhouses
+183393	Bars
+183393	Mexican
+183393	Nightlife
+183393	Restaurants
+183432	Beauty & Spas
+183432	Hair Removal
+183432	Skin Care
+183432	Waxing
+183479	Mediterranean
+183479	Restaurants
+183479	Vegan
+183479	Vegetarian
+183546	Buffets
+183546	Restaurants
+183573	American (New)
+183573	American (Traditional)
+183573	Arts & Entertainment
+183573	Desserts
+183573	Food
+183573	Restaurants
+183573	Social Clubs
+183588	American (New)
+183588	American (Traditional)
+183588	Restaurants
+183588	Seafood
+183735	Bars
+183735	Italian
+183735	Nightlife
+183735	Restaurants
+183735	Seafood
+183818	Caterers
+183818	Event Planning & Services
+183818	Fast Food
+183818	Food
+183818	Gluten-Free
+183818	Juice Bars & Smoothies
+183818	Mediterranean
+183818	Middle Eastern
+183818	Restaurants
+183818	Vegan
+183818	Wraps
+183900	Arts & Entertainment
+183900	Performing Arts
+184008	American (New)
+184008	American (Traditional)
+184008	Burgers
+184008	Cafes
+184008	Restaurants
+184008	Sandwiches
+184070	Desserts
+184070	Food
+184070	Food Stands
+184070	Food Trucks
+184070	Restaurants
+184070	Shaved Ice
+184259	Japanese
+184259	Restaurants
+184259	Steakhouses
+184259	Sushi Bars
+184577	Italian
+184577	Pizza
+184577	Restaurants
+184597	Arts & Entertainment
+184597	Casinos
+184597	Event Planning & Services
+184597	Hotels
+184597	Hotels & Travel
+184722	Arts & Entertainment
+184722	Landmarks & Historical Buildings
+184722	Performing Arts
+184722	Public Services & Government
+184722	Street Art
+184724	Arts & Entertainment
+184724	Asian Fusion
+184724	Bars
+184724	Dance Clubs
+184724	Lounges
+184724	Music Venues
+184724	Nightlife
+184724	Restaurants
+184774	American (New)
+184774	Bars
+184774	Cocktail Bars
+184774	Nightlife
+184774	Restaurants
+184837	Arts & Entertainment
+184837	Casinos
+184837	Cinema
+184837	Event Planning & Services
+184837	Hotels
+184837	Hotels & Travel
+184837	Restaurants
+184837	Steakhouses
+184889	American (Traditional)
+184889	Burgers
+184889	Diners
+184889	Fast Food
+184889	Food
+184889	Restaurants
+184918	Beauty & Spas
+184918	Eyelash Service
+184918	Hair Removal
+184918	Nail Salons
+184918	Waxing
+185028	Bars
+185028	Brasseries
+185028	French
+185028	Nightlife
+185028	Restaurants
+185037	Arts & Entertainment
+185037	Event Planning & Services
+185037	Music Venues
+185037	Nightlife
+185037	Stadiums & Arenas
+185037	Venues & Event Spaces
+185069	Asian Fusion
+185069	Chinese
+185069	Noodles
+185069	Restaurants
+185069	Soup
+185168	Breakfast & Brunch
+185168	Buffets
+185168	Food
+185168	Restaurants
+185168	Sandwiches
+185213	Ethnic Food
+185213	Food
+185213	Hawaiian
+185213	Japanese
+185213	Restaurants
+185213	Specialty Food
+185239	Fast Food
+185239	Gluten-Free
+185239	Pizza
+185239	Restaurants
+185239	Salad
+185249	Arts & Entertainment
+185249	Casinos
+185249	Event Planning & Services
+185249	Hotels
+185249	Hotels & Travel
+185341	American (New)
+185341	Bars
+185341	Cocktail Bars
+185341	Nightlife
+185341	Restaurants
+185341	Seafood
+185404	Arts & Entertainment
+185404	Bars
+185404	Breakfast & Brunch
+185404	Mexican
+185404	Music Venues
+185404	Nightlife
+185404	Restaurants
+185413	Cajun/Creole
+185413	Restaurants
+185413	Steakhouses
+185479	American (Traditional)
+185479	Burgers
+185479	Restaurants
+185503	American (Traditional)
+185503	Restaurants
+185503	Sandwiches
+185548	French
+185548	Restaurants
+185554	Active Life
+185554	Amusement Parks
+185554	Aquariums
+185554	Zoos
+185571	Diners
+185571	Gluten-Free
+185571	Italian
+185571	Pizza
+185571	Restaurants
+185593	Bars
+185593	Nightlife
+185593	Restaurants
+185593	Seafood
+185593	Steakhouses
+185593	Wine Bars
+185634	Bars
+185634	Lounges
+185634	Nightlife
+185695	Arts & Entertainment
+185695	Casinos
+185695	Event Planning & Services
+185695	Hotels
+185695	Hotels & Travel
+185695	Resorts
+185705	American (New)
+185705	Bakeries
+185705	Breakfast & Brunch
+185705	Cafes
+185705	Caterers
+185705	Event Planning & Services
+185705	Food
+185705	Gluten-Free
+185705	Restaurants
+185747	American (Traditional)
+185747	Italian
+185747	Pizza
+185747	Restaurants
+185794	Restaurants
+185794	Steakhouses
+185798	American (New)
+185798	American (Traditional)
+185798	Pizza
+185798	Restaurants
+186028	Arts & Entertainment
+186028	Performing Arts
+186085	Adult Entertainment
+186085	Arts & Entertainment
+186085	Nightlife
+186085	Performing Arts
+186261	Pizza
+186261	Restaurants
+186305	Burgers
+186305	Restaurants
+186344	Active Life
+186344	Skating Rinks
+186476	Bars
+186476	Breweries
+186476	Food
+186476	Nightlife
+186476	Pubs
+186517	Chinese
+186517	Malaysian
+186517	Restaurants
+186517	Thai
+186646	American (Traditional)
+186646	Breakfast & Brunch
+186646	Burgers
+186646	Diners
+186646	Restaurants
+186759	Bars
+186759	Italian
+186759	Nightlife
+186759	Restaurants
+186759	Wine Bars
+186796	American (New)
+186796	Restaurants
+186796	Seafood
+186796	Steakhouses
+186936	Fast Food
+186936	Hot Dogs
+186936	Restaurants
+186937	Buffets
+186937	Restaurants
+187040	Arts & Entertainment
+187040	Bars
+187040	Cocktail Bars
+187040	Music Venues
+187040	Nightlife
+187252	American (New)
+187252	Restaurants
+187252	Seafood
+187326	Mexican
+187326	Restaurants
+187326	Vegetarian
+187398	American (New)
+187398	Bars
+187398	Comfort Food
+187398	Nightlife
+187398	Restaurants
+187469	Restaurants
+187469	Vietnamese
+187650	American (Traditional)
+187650	Buffets
+187650	Italian
+187650	Restaurants
+187680	Bars
+187680	Cantonese
+187680	Chinese
+187680	Dance Clubs
+187680	Lounges
+187680	Nightlife
+187680	Restaurants
+187691	Cantonese
+187691	Chinese
+187691	Dim Sum
+187691	Hot Pot
+187691	Restaurants
+188067	American (Traditional)
+188067	Restaurants
+188067	Seafood
+188067	Steakhouses
+188109	Arts & Entertainment
+188109	Casinos
+188109	Event Planning & Services
+188109	Home & Garden
+188109	Home Decor
+188109	Hotels
+188109	Hotels & Travel
+188109	Resorts
+188109	Shopping
+188255	Burgers
+188255	Fast Food
+188255	Restaurants
+188255	Sandwiches
+188255	Vegan
+188255	Vegetarian
+188310	American (Traditional)
+188310	Burgers
+188310	Restaurants
+188449	American (New)
+188449	Bars
+188449	Nightlife
+188449	Restaurants
+188449	Seafood
+188449	Steakhouses
+188454	Mexican
+188454	Restaurants
+188454	Salad
+188454	Seafood
+188578	American (New)
+188578	American (Traditional)
+188578	Barbeque
+188578	Restaurants
+188578	Southern
