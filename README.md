@@ -2,6 +2,7 @@
 
 This dataset is a sample of Yelp dataset extracted from round 12 of Yelp Challenge. It consists of 4 files. 
 
+Underscores
 
 ratings.txt: it contains the ratings given by users to businesses (items).
 
