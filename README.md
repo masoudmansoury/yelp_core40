@@ -6,7 +6,7 @@ rating.txt: it contains the ratings given by users to businesses.
 
 Every line has the following format:
 
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+I am in <span style="font-family:tahoma; font-size:4em;">LOVE!</span>
 
 
 
