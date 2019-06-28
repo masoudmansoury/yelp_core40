@@ -4,7 +4,9 @@ This dataset is a sample of Yelp dataset extracted from round 12 of Yelp Challen
 
 Underscores
 
-ratings.txt: it contains the ratings given by users to businesses (items).
+### ratings.txt
+
+It contains the ratings given by users to businesses (items).
 
 Every line has the following format:
 
@@ -17,7 +19,9 @@ This file contains
 * 1,272 businesses.
 
 
-friendships.txt: it contains the friendship (trust) statements issued by users.
+### friendships.txt
+
+It contains the friendship (trust) statements issued by users.
 
 Every line has the following format:
 
@@ -32,7 +36,9 @@ This file contains
 trust_statement_value is always 1.
 
 
-users.txt: it contains users' demographic information.
+### users.txt
+
+It contains users' demographic information.
 
 Every line has the following format:
 
@@ -46,7 +52,9 @@ In this file
 * samples is the number of samples used for predicting gender.
 
 
-items.txt: it contains items information.
+### items.txt
+
+It contains items information.
 
 Every line has the following format:
 
