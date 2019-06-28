@@ -1,6 +1,18 @@
-# Percentile Computation
+# Yelp Dataset
 
-This repository provides a reference implementation of percentile transformation for user ratings in recommender systems.  
+This dataset is a sample of Yelp dataset extracted from round 12 of Yelp Challenge. It consists of 4 files. 
+
+rating.txt: it contains the ratings given by users to businesses.
+
+Every line has the following format:
+
+I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+
+
+
+* 1,355 users who provided 
+* 100,409 ratings on 
+* 1,272 businesses. 
 
 ### Basic usage 
 
