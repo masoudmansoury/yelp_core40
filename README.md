@@ -67,18 +67,8 @@ One or more categories are assigned to each item.
 If you find this dataset useful for your research, please consider citing the following paper:
 
 	@inproceedings{yelp40-rmse-recsys19,
-		author = {Mansoury, Masoud and Mobasher, Bamshad and Burke, Robin and Pechenizkiy, Mykola},
-		title = {Bias Disparity in Collaborative Recommendation: Algorithmic Evaluation and Comparison},
-		booktitle = {RecSys workshop on Recommendation in Multi-Stakeholder Environments},
-		year = {2019}
+	author = {Mansoury, Masoud and Mobasher, Bamshad and Burke, Robin and Pechenizkiy, Mykola},
+	title = {Bias Disparity in Collaborative Recommendation: Algorithmic Evaluation and Comparison},
+	booktitle = {RecSys workshop on Recommendation in Multi-Stakeholder Environments},
+	year = {2019}
 	}
-
-### Mis
-
-It contains items information.
-
-Every line has the following format:
-
-	itemid category
-
-One or more categories are assigned to each item.
